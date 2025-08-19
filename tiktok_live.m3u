@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",viktoria5671
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7540264537191746326_ld.flv?expire=1756819549&sign=31006a553e49c26fd2f234bcfa5bca23
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7540190160781118230_ld.flv?expire=1756819549&sign=ae7eaf174f246fd5468f805429ea9b69
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540190160781118230_ld.flv?expire=1756820836&sign=9e963ea2968216211668a6872d848237
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",viktoria5671
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540264537191746326_ld.flv?expire=1756820836&sign=376655bc77491767087238df24226eed
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",elenaelen18
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7540287109689543446_ld.flv?expire=1756819558&sign=b45b08829eaf8a72d2407ec5e030cecc
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540287109689543446_ld.flv?expire=1756820845&sign=b1cd96193c6ae447cd49432f9bf3af06
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alyskeiaroubini
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540286799189412630_ld.flv?expire=1756819561&sign=c2b09dede5d280a8bb06b540e397c984
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540286799189412630_ld.flv?expire=1756820847&sign=709d45102c24062582371bfe810aa82d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",faihsigala
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7540290612201900822_ld.flv?expire=1756820850&sign=2f1c46cd1149ab8edf61953630fdbc56
