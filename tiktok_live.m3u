@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7543863949654428438_ld.flv?expire=1757666768&sign=758b38ad070bc5b32284e48ce6e91483
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",despoina_dim_
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-7543910117067705110_ld.flv?expire=1757666775&sign=eab2c53dff10d9b70a0ef531c2cad788
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7543863949654428438_ld.flv?expire=1757669173&sign=22b7ee944c5cb1a5fc44189208c2e304
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",stauris.gianopoul
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-7543931896045030166_ld.flv?expire=1757669175&sign=835aae1df6695984a9131375d0f88172
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",asterochri
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7543915801171069718_or4.flv?expire=1757666781&sign=fc0cb2651f51502b11b5933a4ab86337
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-7543915801171069718_or4.flv?expire=1757669186&sign=8ab97529ca5cf7d358af218da25d6caa
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",giorgos_mitafis
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7543934327743810326_ld.flv?expire=1757669188&sign=d1759bd248bcf2686c62bc0e36703082
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",afipnistis_
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-7543934096557345558_ld.flv?expire=1757669193&sign=70983bb296d3afa59ec13f7f114a0f05
