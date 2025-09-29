@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",ioannakoulouri180
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1270974660553475669_ld.flv?expire=1760339899&sign=bbf814009b888155015302d45cf9c9dd
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1270974198165538389_ld.flv?expire=1760338368&sign=3ffc6d94b5b7fc61ede69804e3601d9c
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1270974198165538389_ld.flv?expire=1760339899&sign=e5e85bfbd848c4441236fb885317f7cb
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",liakimak
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1270974458073974081_ld.flv?expire=1760338378&sign=f67c6bcd5a94be08e33c7175278567d6
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1270974458073974081_ld.flv?expire=1760339910&sign=41d9442795d936abc39c4003733b96e8
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",liaaksm
-https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1270973807456945485_ld.flv?expire=1760338379&sign=cff1d9d04009994aa9250e00ba22e565
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1270973807456945485_ld.flv?expire=1760339911&sign=1be503f47f3b76ce278413ccd5ae7ba1
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",afipnistis_
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1270974264602003029_ld.flv?expire=1760338389&sign=84887dd578b70777d8265e4b344e868e
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1270974264602003029_ld.flv?expire=1760339922&sign=24cd8a87c25f4e239553b975584136c4
