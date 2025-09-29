@@ -1,3 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",androniki.nikaki2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1270973970060674369_ld.flv?expire=1760329318&sign=d185985d94a16df88c1aad9131250db3
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",liaaksm
-https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1270973807456945485_ld.flv?expire=1760327559&sign=69296219101aedd28ec27216c0c2a93b
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1270973807456945485_ld.flv?expire=1760329328&sign=39ff5bd25f06e4cc8d6d0eac825fea36
