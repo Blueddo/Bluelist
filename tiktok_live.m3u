@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",pounentism
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271020332350965057_ld.flv?expire=1761023826&sign=b2e57c583e9021b827a90a4530ba8d24
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271020472816633429_ld.flv?expire=1761023826&sign=cb75cc8883872cca608b525c15ed3861
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271020472816633429_ld.flv?expire=1761025329&sign=894aace2715cd5a9de8872e31fc83611
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",pounentism
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271020332350965057_ld.flv?expire=1761025329&sign=19f9dba2b7b9551faf3aa2c2ea605b84
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",androniki.nikaki2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271020364500829505_ld.flv?expire=1761023828&sign=9af21fbbc0239a80567cb728ab145037
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271020364500829505_ld.flv?expire=1761025331&sign=12704e248f670ac667d2c244d10b41ed
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",muglikat
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271020706281555541_ld.flv?expire=1761025340&sign=2cae0f65ff359e61d715c81f457deeae
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alice_spyralatou
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271020643073656405_ld.flv?expire=1761025341&sign=6226d047ab76aea88d925cdc2d7cd295
