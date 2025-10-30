@@ -1,5 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",sof1anna
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271155291382875457_or4.flv?expire=1763030785&sign=127226c61370baababa716539396b570
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",pinarkrlii
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271155264615089473_ld.flv?expire=1763030790&sign=f54e70a277c0567b2fa5e17996760849
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",manovratori.1102
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271155262129440341_or4.flv?expire=1763030792&sign=7288a472028c22ca3b3f0ecc0fc179a1
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",evasshelterkastoria
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271155139765077313_ld.flv?expire=1763029230&sign=818888c85d42dca201a6918f1cb714a4
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271155139765077313_ld.flv?expire=1763030798&sign=aabe69d336556f971d9cda4732c771aa
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",katalyna_98
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271155038497801537_ld.flv?expire=1763029235&sign=bb393260ee43165b43a626e5a4d206d1
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271155038497801537_ld.flv?expire=1763030802&sign=873ffb970aea63c3d25e69d0e038a0e3
