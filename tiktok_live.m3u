@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",sof1anna
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271155291382875457_or4.flv?expire=1763034094&sign=3f60a5b57705519857b1fdd42f261127
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",muglikat
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271155600734553685_ld.flv?expire=1763037513&sign=981f0a56898f22bfb623ed21263085c4
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",aniegk
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271155656511981141_ld.flv?expire=1763037518&sign=25753fabf1213d557b4a79a1cf1b008c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",manovratori.1102
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271155262129440341_or4.flv?expire=1763034099&sign=83c6ca98acbc176229864ef4ee14260b
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",evasshelterkastoria
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271155139765077313_ld.flv?expire=1763034104&sign=0c60e6b9427a93e43f1f734da8e5b60b
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271155262129440341_or4.flv?expire=1763037519&sign=0cf85bfd329f6c84bd7da2e7c8021aa4
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",panagiotis_milas
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271155615242913089_or4.flv?expire=1763037520&sign=1d1252d8abcaca755f619698b1f07ec1
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",giannelis_
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271155694362166869_ld.flv?expire=1763037526&sign=784e1404e23c0044c7cefa2ee7e0c06d
