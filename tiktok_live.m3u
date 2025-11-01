@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",.anastasiaa_official
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271166533182162241_ld.flv?expire=1763199643&sign=5d1c423ec4bf5e9e705d8ff739a6f36b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",dimitra.teacher.lion
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271166609961780821_ld.flv?expire=1763199644&sign=d33c78252af6a8eddb8dbc0df28fe113
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",micaa_gio
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271166240380159573_ld.flv?expire=1763198241&sign=2e494b04990a9b6b2055ddda415219bf
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",asterochri
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271166465468007745_or4.flv?expire=1763198245&sign=962f98805469235b0a85473b0a64073f
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271166618269648469_ld.flv?expire=1763199646&sign=b681f81cd3f4c652cdd26d1bda786b0c
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",elenibabasika
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271166615920051797_ld.flv?expire=1763199648&sign=80eb6822c535756f37891f07a8687d5b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",greekkitchenbychristina
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271166224878011713_ld.flv?expire=1763198256&sign=889aed4129e6b746533277441c5bfb7d
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271166224878011713_ld.flv?expire=1763199661&sign=0c9c8a77534be3a8774b2b6d19c9310c
