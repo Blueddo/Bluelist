@@ -1,6 +1,8 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",vaggelitsa.kol
 https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1270943528479360597_ld.flv?expire=1759875367&sign=3fe848f3b75365c59d2c8a19c5401c80
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dfordora
+https://pull-flv-l77-tt04.tiktokcdn-eu.com/stage/stream-1271181709844416085_ld.flv?expire=1763430845&sign=f488e670e37d6073ad6270b47e2747c2
 #EXTINF:-1 group-title="TikTok Live" g-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",a_e_r_i_k_o
 https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1270937608395687233_ld.flv?expire=1759788997&sign=f55117fae6939935a2df9ab8d12dc29b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",thomastsirogiannis2025
@@ -9,6 +11,7 @@ https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1270937257589081685_ld.f
 https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1270937272727110977_ld.flv?expire=1759788988&sign=dc708623bd764717dcfb6b9eead1811c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kkjewelry1
 https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1270937507747333441_ld.flv?expire=1759789003&sign=c4d360a64ef8e91db294efff97b60c7c
+
 
 
 
