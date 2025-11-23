@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",androniki.nikaki2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271294629840684353_ld.flv?expire=1765107043&sign=1e0bee0f6166de75f1bc51761389e1ca
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",art_art434
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271294608828532309_ld.flv?expire=1765107052&sign=325cfefdb683729a772851b12fccb266
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",muglikat
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271294331741275733_ld.flv?expire=1765105549&sign=505245235c3a8b4d0a2a57ddc3f3ee5a
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271294331741275733_ld.flv?expire=1765107053&sign=7e171714eba31d4b98f1921ea92ce46e
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",aniegk
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271294435023127873_ld.flv?expire=1765105554&sign=b13ea5c41d79501758f45aef7884f6b5
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",giannelis_
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271294508298143041_ld.flv?expire=1765105560&sign=8196db05918b178badcb0fa1369981fb
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271294435023127873_ld.flv?expire=1765107058&sign=2633ebb24364ca236b8802f344242d32
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",manovratori.1102
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271294655754667329_ld.flv?expire=1765107059&sign=23b802b6b99a2f33a0f61c632c89b57e
