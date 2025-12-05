@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",tzogk
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271364228435936577_ld.flv?expire=1766143851&sign=ff976da434595332abe979a248af2ad3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",eirinikiprioti
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271364210250220865_ld.flv?expire=1766143858&sign=8ada585331f6b3c49c1933c35bd53d8d
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",athens_walks
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271364101736498773_ld.flv?expire=1766142354&sign=e585140ef23e97bec84281b5d2cd684e
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271364101736498773_ld.flv?expire=1766143858&sign=3b31478d5d1196c89f33b6993a1c1c5b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",panagiotis_milas
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271364185956550229_ld.flv?expire=1766143859&sign=ed0d7ae95ab42a36aaacec1729d3bb17
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",super_katerina8
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271363212676957781_ld.flv?expire=1766142359&sign=854a8a9fd1f1ede11309d537b5b48ebf
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",kondyliascreations
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271363662574257749_or4.flv?expire=1766142361&sign=06a6ba2bfa903de701eb89eaf9744f9f
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271363212676957781_ld.flv?expire=1766143863&sign=d505bf791fa87103237d276ce704edc2
