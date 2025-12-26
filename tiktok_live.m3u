@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271483928036508993_ld.flv?expire=1767927931&sign=67ed3ee873a7760847e6799a8b69f945
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",angelique_omirou
-https://pull-w5-sg01.tiktokcdn-us.com/stage/stream-1559712856475435054_ld.flv?expire=1767925854&sign=10bf451faaefa66359c58c30597f26a0
+https://pull-w5-sg01.tiktokcdn-us.com/stage/stream-1559712856475435054_ld.flv?expire=1767927944&sign=7891cc9c21c0b6645ca7f91b1865be55
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",elizasamiou
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271483385532646997_ld.flv?expire=1767925854&sign=3d97a01f27e83954b37abb5895ad8fda
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271483385532646997_ld.flv?expire=1767927944&sign=bf7f0d994efb067f8939d2a273b24bba
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",staurinats1
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271483808782222657_ld.flv?expire=1767925859&sign=09dce946d0378f1153a3d9ba55e97b2b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271483808782222657_ld.flv?expire=1767927949&sign=b663aaf4e212c0f449f4323134108e98
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",manoscello
-https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1271482452997309773_ld.flv?expire=1767925859&sign=d4bd1a0e706680d5a06b2a8c4ba114ce
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1271482452997309773_ld.flv?expire=1767927949&sign=ef7767199b222fa42d2bb24259391267
