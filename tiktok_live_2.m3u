@@ -1,7 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/Bluelist/main/avatars/elizasamiou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elizasamiou | ΕL1ZA💋S. - Happy Vibes 🦄 | Ώρα έναρξης: 23:27:57 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271668148182976085_ld5.flv?expire=1770690789&sign=378d42959b03aeea21bcf3fd4a4caf9d
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/Bluelist/main/avatars/petrakosthess.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrakosthess | ᴘᴇᴛʀᴏЅ ᴘᴇᴛʀᴀᴋᴏЅ 🎙️94,5 🎧 - Petrakos 94.5 RADIO show | Ώρα έναρξης: 00:12:37 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271668328025032277_ld5.flv?expire=1770690910&sign=43131046e319120220994cb614c64eef
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/Bluelist/main/avatars/afipnistis_coach.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",afipnistis_coach | afipnistis_coach - πείνασα!!! | Ώρα έναρξης: 21:51:11 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271667758498317909_ld5.flv?expire=1770690943&sign=38a33229c7217cfb5bbab1a0ab737072
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="/home/runner/work/parse_live/parse_live/avatars/elizasamiou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elizasamiou | ΕL1ZA💋S. - Happy Vibes 🦄 | Ώρα έναρξης: 23:27:57 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271668148182976085_ld5.flv?expire=1770692906&sign=d04b3ed74108be2a703ed5e7d5aa2332
