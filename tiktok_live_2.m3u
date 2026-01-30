@@ -1,5 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ibadam77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ibadam77 | Ибадам - | Ώρα έναρξης: 05:54:48 | ld | flv
-https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-2136378228912685099_ld5.flv?expire=1770955536&sign=9f310122127903f2194ac6bbafa3c0aa
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/angelique_omirou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",angelique_omirou | ⚡️Angelica 69🤍🦢 - | Ώρα έναρξης: 00:35:44 | origin | flv
-https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1559916191885295659.flv?expire=1770955590&sign=d9815dec2cbe67a9ac749ee55d72d226
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ibadam77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ibadam77 | Ибадам - | Ώρα έναρξης: 05:54:48 | origin | flv
+https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-2136378228912685099.flv?expire=1770957049&sign=3637004ff10b720e263e1149a9463376
