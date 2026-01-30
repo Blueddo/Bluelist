@@ -1,2 +1,15 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ioannakoulouri180.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180 | η κουζίνα της Ιωάννας - | Ώρα έναρξης: 14:12:17 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271689103528429141.flv?expire=1770985841&sign=18bd9cc7331b81bff3ec597b340f4482
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΚΙΤΣΑ - | Ώρα έναρξης: 12:58:57 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271688808245757525_ld5.flv?expire=1770985851&sign=3966a8562adeb72b84b262a922acda77
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 14:21:40 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271689141368915541.flv?expire=1770985879&sign=c60159b54d78aff624bfa7f81e0c6f9f
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/panagiwta.0.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",panagiwta.0 | panagiwta - Καλέ γεια❤️ | Ώρα έναρξης: 14:02:00 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271689062125143361_ld5.flv?expire=1770985903&sign=f1f8aab93d6cf05f8bcc5d26a6eade1a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/elenaelen18.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elenaelen18 | ELENAelen18 - Θα φτιάξουμε φαγητό | Ώρα έναρξης: 13:06:43 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271688839449281857_ld5.flv?expire=1770985916&sign=f2d9d6c039ab7a9ebdff2f5e0f13e44a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/art_art434.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",art_art434 | 🏹✨Artemis Asteriadi ✨🏹 - ❤️ | Ώρα έναρξης: 13:45:25 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271688995348678229_ld5.flv?expire=1770985925&sign=3f4eaa7f6034e178923764cf6c3ba331
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/panagiotis_milas.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",panagiotis_milas | Παναγιώτης Μήλας - παρεούλα | Ώρα έναρξης: 13:43:36 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271688988034073921_ld5.flv?expire=1770985973&sign=f08b96e2539b0bcd7f968908fcaae038
