@@ -1,5 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/_alex.lou_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",_alex.lou_ | Aleksandros - Aleksandros on top 🚀 | Ώρα έναρξης: 22:42:58 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271691159812703829_ld5.flv?expire=1771038402&sign=5a7e48bfe67d11c89e5b8bce1616280e
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/angelique_omirou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",angelique_omirou | ⚡️Angelica 69🤍🦢 - | Ώρα έναρξης: 00:53:56 | ld | flv
-https://pull-w5-sg01.tiktokcdn-us.com/stage/stream-1559922063315042350_ld5.flv?expire=1771038409&sign=433a9e739eab468aecdd4a92d42cd374
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/angelique_omirou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",angelique_omirou | ⚡️Angelica 69🤍🦢 - | Ώρα έναρξης: 00:53:56 | origin | flv
+https://pull-w5-sg01.tiktokcdn-us.com/stage/stream-1559922063315042350.flv?expire=1771039914&sign=b10ec3fade0f20f1a2122effbfac6fde
