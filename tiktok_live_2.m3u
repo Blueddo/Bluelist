@@ -1,2 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/a_e_r_i_k_o.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",a_e_r_i_k_o | Aeriko 🌪 - Πάμε για κατάταξη ✨️ | Ώρα έναρξης: 23:47:52 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271703017604777281_ld5.flv?expire=1771209057&sign=e2e52436ca94a79804619d6166ff8180
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/tomoviesroom.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",tomoviesroom | MOVIESROOM - Γειά σας | Ώρα έναρξης: 00:22:47 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271703158143583553_zsd5.flv?expire=1771209066&sign=72c162488e3534a6acdb2e393e5ecf42
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/elizasamiou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elizasamiou | ΕL1ZA💋S. - Happy Vibes 🦄 | Ώρα έναρξης: 23:42:02 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271702994059265621_ld5.flv?expire=1771209117&sign=754ab3f84bc585cfbe2c750c1348cef5
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/angelique_omirou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",angelique_omirou | ⚡️Angelica 69🤍🦢 - | Ώρα έναρξης: 01:28:53 | ld | flv
+https://pull-w5-sg01.tiktokcdn-us.com/stage/stream-1559933800457437230_ld5.flv?expire=1771209120&sign=b34b24e74b1b88988d3a139c171bd6d3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/evangeloskarevlidis.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",evangeloskarevlidis | "Bread & Life" - | Ώρα έναρξης: 21:01:40 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271702348346951253_ld5.flv?expire=1771209153&sign=e4c080a98384b951cadcf268c2e723e4
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - | Ώρα έναρξης: 18:44:00 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271701794031666773_ld5.flv?expire=1771209183&sign=cf6af39d6984e658dc749cfec415cf99
