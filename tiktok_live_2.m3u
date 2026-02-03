@@ -1,21 +1,25 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/theano.karipi.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",theano.karipi | Theano cooking - | Ώρα έναρξης: 17:34:23 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713110123349589.flv?expire=1771347941&sign=ee8ea23680b3f67c4306efa05f509787
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/vaggelitsa.kol.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",vaggelitsa.kol | 𝒱𝒶𝑔𝑔𝑒𝓁𝒾𝓉𝓈𝒶 𝓀𝑜𝓁 🍓 - | Ώρα έναρξης: 18:28:06 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713326412858965.flv?expire=1771347950&sign=95b07f96d208cd4845f6cca5071d3d29
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pavlos_sfetsas.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pavlos_sfetsas | Pavlos Sfetsas - | Ώρα έναρξης: 16:35:27 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271712872818804033_ld5.flv?expire=1771347957&sign=29806b98095457b12cd57ce931062c58
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/vaggelitsa.kol.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",vaggelitsa.kol | 𝒱𝒶𝑔𝑔𝑒𝓁𝒾𝓉𝓈𝒶 𝓀𝑜𝓁 🍓 - | Ώρα έναρξης: 18:28:06 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713326412858965_ld5.flv?expire=1771349456&sign=1a50864a7d3766b8bbd6b9c6cdfb7fe9
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pavlos_sfetsas.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pavlos_sfetsas | Pavlos Sfetsas - | Ώρα έναρξης: 16:35:27 | origin | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271712872818804033.flv?expire=1771349463&sign=9dccc9b0ffd034e5d7e77f36e0cce3af
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/valentiniro.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",valentiniro | Rodakopoulou🪐 - Καλώς ήλθατε στο LIVE μου | Ώρα έναρξης: 19:18:08 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271713527936320833_ld5.flv?expire=1771349472&sign=735c8d982cd0f4901bee135a2c4582c6
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 16:41:43 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271712898055669333.flv?expire=1771347976&sign=85c5a125251679c61acc665f68f8a088
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271712898055669333.flv?expire=1771349483&sign=1712371f03e12b808aeb6788e1a3c582
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/iva_koumantaki.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",iva_koumantaki | Υβα Κουμαντάκη - | Ώρα έναρξης: 16:02:07 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271712738595309141_ld5.flv?expire=1771347990&sign=a93edd19ed67e1ec77a89891c3e2e545
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271712738595309141_ld5.flv?expire=1771349495&sign=469af99bccec2d4b32070004e687fae1
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/valisa.sk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",valisa.sk | VAL 🧜‍♀️ - Καλώς ήλθατε στο LIVE μου | Ώρα έναρξης: 18:15:00 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713273665291861_ld5.flv?expire=1771348029&sign=b4adc8f035dee9edb327c2c2c963055b
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713273665291861_ld5.flv?expire=1771349527&sign=b4f3ec3f27b9f404c6c411de3e018c6a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/kwnstantina_pk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kwnstantina_pk | 💥𝓚𝔀𝓷𝓼𝓽𝓪𝓷𝓽𝓲𝓷𝓪💥 - | Ώρα έναρξης: 19:14:05 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713511557039701_ld5.flv?expire=1771349531&sign=8b30f3be490ccfea56eeddbcb0cb5824
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/sidorelasindy77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sidorelasindy77 | sidorela sindy - | Ώρα έναρξης: 18:29:06 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713330434410069_ld5.flv?expire=1771348066&sign=a94e82695f8948ba4065785bc3e981e0
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pasxalitsa3.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pasxalitsa3 | 🐞Πασχαλιτσα 🪼 - | Ώρα έναρξης: 18:49:12 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271713411378709825_ld5.flv?expire=1771348071&sign=934737d9f4bbd60273d42add2c097673
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/satamoofficial.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",satamoofficial | satamoofficial🔥 - | Ώρα έναρξης: 16:12:12 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271712779210589781_ld5.flv?expire=1771348090&sign=3efd4b29eb6894ed7de69308310949c4
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713330434410069_ld5.flv?expire=1771349560&sign=100989b69df60ab5eabe6cfa014b56db
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pasxalitsa3.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pasxalitsa3 | 🐞Πασχαλιτσα 🪼 - | Ώρα έναρξης: 18:49:12 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271713411378709825_zsd5.flv?expire=1771349565&sign=ca4d98bb37ba2e6c4faf03ca0e5d4d17
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - | Ώρα έναρξης: 19:20:49 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271713538743731797_ld5.flv?expire=1771349590&sign=6a95935fe54d2f0bcc1bbd678aa6eec5
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/katalyna_98.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",katalyna_98 | Cătălina Moldoveanca - Love me 🍫 | Ώρα έναρξης: 19:29:57 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271713575465387329_ld.flv?expire=1771349625&sign=ca019151b6a939dfec4aebada127ae87
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/bar.caruffo.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",bar.caruffo | 💛🪬Babsi🦇🦥🐉🩵🍋🐨🌌🦁💚 - Galería ? 🥹 | Ώρα έναρξης: 16:45:27 | ld | flv
-https://pull-w5-sg01.tiktokcdn-us.com/stage/stream-1559943289297174574_ld5.flv?expire=1771348136&sign=f76c382da8f357272f3d9e746012495c
+https://pull-w5-sg01.tiktokcdn-us.com/stage/stream-1559943289297174574_ld5.flv?expire=1771349633&sign=0dd00912e93b1468650d3d610baef431
