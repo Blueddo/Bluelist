@@ -1,2 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/alice_spyralatou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",alice_spyralatou | Αλίκη -Σαλώμη 💗 - | Ώρα έναρξης: 16:03:16 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271718541438223957_ld5.flv?expire=1771425049&sign=757d44c3feb7db4029a1a2bc1b79d445
