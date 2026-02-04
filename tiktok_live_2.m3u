@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 07:28:00 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271716466423498325_ld5.flv?expire=1771396242&sign=8055fa6800df4593e55fd4fa9f24b8e0
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/muglikat.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",muglikat | Katerina MK🐈‍⬛ - Καλωσορίσατε🤗￼ ￼￼ Привет 👋 | Ώρα έναρξης: 08:28:05 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271716708620174933_ld5.flv?expire=1771396332&sign=49df1013b4f439500528d3e102c6a36f
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/valisa.sk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",valisa.sk | VAL 🧜‍♀️ - Καλώς ήλθατε στο LIVE μου | Ώρα έναρξης: 08:30:44 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271716719156004437_ld5.flv?expire=1771396338&sign=31ff3e6f334b17a26375239d028a300b
