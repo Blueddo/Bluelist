@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 10:36:37 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271734620777875029.flv?expire=1771679174&sign=c8c3ffd54fa8ebda115809ca5da130b5
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/nataliakal21.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",nataliakal21 | Ναταλί♥️🦅 - Πάμε να φωτίσουμε γκαλερί 💡🥳 | Ώρα έναρξης: 12:41:42 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271735124435404373_ld5.flv?expire=1771679180&sign=cec0fbefd0402929b6be5fede967e44a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/zaxaroplastisa.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",zaxaroplastisa | zaxaroplastisa - | Ώρα έναρξης: 14:03:30 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271735453869934165_ld5.flv?expire=1771679301&sign=8ca69a99aafa06381e9658c30f926a9a
