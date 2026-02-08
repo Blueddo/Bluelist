@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "uniqueId": "ibadam77",
+    "nickname": "Ибадам",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/24de67e7286a0998d567e50c478b1d1e~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=a58bae8f&x-expires=1770696000&x-signature=X12mtbXtwsi6KuIPL1F%2Bxq%2FLJZ0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "",
+    "start_time": 1770523548,
+    "start_time_only_time": "06:05:48",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "sd": {
+        "flv": "https://pull-flv-f77-sg01.tiktokcdn-us.com/stage/stream-2136430457076056133_zsd5.flv?expire=1771734649&sign=4ba5d7d3e5dc2cb7752efe667180fd77"
+      },
+      "ld": {
+        "flv": "https://pull-flv-f77-sg01.tiktokcdn-us.com/stage/stream-2136430457076056133_ld5.flv?expire=1771734649&sign=71b680b2121ee582750d1616f709b09b"
+      },
+      "hd": {
+        "flv": "https://pull-flv-f77-sg01.tiktokcdn-us.com/stage/stream-2136430457076056133_hd5.flv?expire=1771734649&sign=51cef1b9a8af75080aee2ac7a15316b0"
+      },
+      "ao": {
+        "flv": "https://pull-flv-f77-sg01.tiktokcdn-us.com/stage/stream-2136430457076056133.flv?expire=1771734649&sign=a90c3c89223aa13c79b7fbcfcdc116ff&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-sg01.tiktokcdn-us.com/stage/stream-2136430457076056133.flv?expire=1771734649&sign=a90c3c89223aa13c79b7fbcfcdc116ff"
+      }
+    }
+  }
+]
