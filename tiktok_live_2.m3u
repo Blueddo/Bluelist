@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/orinimelissa.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",orinimelissa | Ορεινή Μέλισσα - Kati phra | Ώρα έναρξης: 14:24:28 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271752932911220309_ld5.flv?expire=1771936254&sign=341abe070be3125d7d415c3e4b7e9e7a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 12:47:59 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271752544351946325.flv?expire=1771936270&sign=9323a39572fd52510880ebeb9c61a3c8
