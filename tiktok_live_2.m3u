@@ -1,2 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/beyou131.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",beyou131 | ⓃⒶⓈⓉⓉⓉ🥃 - | Ώρα έναρξης: 10:56:49 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271769491348653377_ld5.flv?expire=1772183201&sign=ea5f78900933597ce74d87d4cf5ddc25
