@@ -1,2 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pounentism.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism | Pounentism - | Ώρα έναρξης: 07:11:54 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271768585515042389_ld5.flv?expire=1772170234&sign=19e9adb07c2ff8f660017ac3884e9c34
