@@ -1,11 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ioannakoulouri180.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180 | η κουζίνα της Ιωάννας - Φράγμα | Ώρα έναρξης: 11:13:51 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271786954624861781.flv?expire=1772445933&sign=17e03ee8030ccf03d01edfb229f376b4
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΑΥΡΙΛΙΟΣ ΤΑΡΏ - | Ώρα έναρξης: 11:50:05 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271787100513764949_ld5.flv?expire=1772445941&sign=ee1f86af17428ac849ea78f87521a21a
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 11:55:28 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271787122127013461.flv?expire=1772445964&sign=52f7508c4049730c7d4d311e79647a7c
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/liakimak.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",liakimak | Λία Μακροστέργιου - | Ώρα έναρξης: 11:45:13 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271787080858469697_ld5.flv?expire=1772445991&sign=25c913ba2052086d206fa462aeedf376
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/panagiotis_milas.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",panagiotis_milas | Παναγιώτης Μήλας - παρεούλα | Ώρα έναρξης: 11:50:14 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271787101119317589_ld5.flv?expire=1772446036&sign=fc6cec47056a19dc01e6a6e593e75593
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ioannakoulouri180.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180 | η κουζίνα της Ιωάννας - Φράγμα | Ώρα έναρξης: 11:13:51 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271786954624861781_ld5.flv?expire=1772447433&sign=06cc8bbdfa151b3c8bf512cc4e20781a
