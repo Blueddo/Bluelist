@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uniqueId": "magic_vesto",
+    "nickname": "Magic Vesto",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b62466e6e01c1f7f123cd6441514c85~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=341e567a&x-expires=1771498800&x-signature=9HekHN2SjvVBEm5CbFOkxEGQVv4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "live_title": "Horror Game Night",
+    "start_time": 1771325491,
+    "start_time_only_time": "12:51:31",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271793146017088833.flv?expire=1772539551&sign=8cd527778b13d9ecbaf7b3b49b164c9c"
+      },
+      "ao": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271793146017088833.flv?expire=1772539551&sign=8cd527778b13d9ecbaf7b3b49b164c9c&only_audio=1"
+      }
+    }
+  }
+]
