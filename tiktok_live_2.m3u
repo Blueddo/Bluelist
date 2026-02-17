@@ -1,2 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΑΥΡΙΛΙΟΣ ΤΑΡΏ - | Ώρα έναρξης: 12:12:23 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271792988512061013_ld5.flv?expire=1772533836&sign=673cf196f60128b3bb7120250a352d41

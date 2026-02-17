@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "uniqueId": "aurhlios1",
+    "nickname": "ΑΥΡΙΛΙΟΣ ΤΑΡΏ",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/1baa069b3c5e493391f7d66359166382~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=60c7366a&x-expires=1771495200&x-signature=AdjaN%2BVOfP86Fodfe1DDNCnADss%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "live_title": "",
+    "start_time": 1771323143,
+    "start_time_only_time": "12:12:23",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271792988512061013_zsd5.flv?expire=1772533836&sign=439856675a8d06a75b0229e24d04c9b5"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271792988512061013_ld5.flv?expire=1772533836&sign=673cf196f60128b3bb7120250a352d41"
+      },
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271792988512061013_hd5.flv?expire=1772533836&sign=30009db1208aed4ad7c9d8d650080ef7"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271792988512061013.flv?expire=1772533836&sign=2365e95149774950f91e7af56d4fa98a&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271792988512061013.flv?expire=1772533836&sign=2365e95149774950f91e7af56d4fa98a"
+      }
+    }
+  }
+]
