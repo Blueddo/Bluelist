@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/beautyandmore77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",beautyandmore77 | More and More ❤️ - Καλημέρα παρεούλα | Ώρα έναρξης: 18:27:42 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271800297951069781_ld5.flv?expire=1772641851&sign=2eacc3d4d6928020c92cd80977d451b4
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/valentiniro.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",valentiniro | Rodakopoulou🪐 - | Ώρα έναρξης: 16:07:58 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271799735248749889_ld5.flv?expire=1772641860&sign=691f359e843fb2928dee48dd5c3a043b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/gianniszizzis.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",gianniszizzis | Γιαννης Ζησης - Ο Γιάννης και οι θείες 💔 | Ώρα έναρξης: 18:24:23 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271800284529821269_ld5.flv?expire=1772641872&sign=3695a284efb9a78822db4386d857d78b
