@@ -1,3 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/greek4gamer.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",greek4gamer | 🅶🆁🅴🅴🅺 🅶🅰🅼🅴🆁 TM🍓🍓 - | Ώρα έναρξης: 02:55:49 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271842931263407701.flv?expire=1773289858&sign=b5c2ddfa09c448fdd68d87d6dea95cc3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 06:41:35 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271843840325584469_ld5.flv?expire=1773291925&sign=9bbf77f704126fcaf150c7f03fc3bee3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pounentism.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism | Pounentism - | Ώρα έναρξης: 07:02:05 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271843922730813013_ld5.flv?expire=1773291927&sign=4b97cb5d768e6c0052ae691fbc25e5eb
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/greek4gamer.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",greek4gamer | 🅶🆁🅴🅴🅺 🅶🅰🅼🅴🆁 TM🍓🍓 - | Ώρα έναρξης: 02:55:49 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271842931263407701_ld5.flv?expire=1773291945&sign=5f9f8d8e9914d3262b6d00e9095ed947
