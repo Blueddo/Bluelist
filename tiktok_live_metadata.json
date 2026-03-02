@@ -10,10 +10,37 @@
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
       "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271865710714816085.flv?expire=1773626782&sign=54df8db090ea8323ee5ed18053c88b56"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271865710714816085.flv?expire=1773628292&sign=c20753e084fd6e893788618ba511f768"
       },
       "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271865710714816085.flv?expire=1773626782&sign=54df8db090ea8323ee5ed18053c88b56&only_audio=1"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271865710714816085.flv?expire=1773628292&sign=c20753e084fd6e893788618ba511f768&only_audio=1"
+      }
+    }
+  },
+  {
+    "uniqueId": "efeli_giaki",
+    "nickname": "Efeli🐉",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/15b924b7f642dd0a1391438d4eaba1df~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=dd9403f6&x-expires=1772589600&x-signature=E7jpbrr1F0qnyoQE%2BKrWIGmsOO0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "Ειιι καλό μήνα ψυχουλες 🤜❤️🤛",
+    "start_time": 1772398173,
+    "start_time_only_time": "22:49:33",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271865132439307585_ld5.flv?expire=1773628332&sign=da510e46461b11200a8e94fe33685130"
+      },
+      "ao": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271865132439307585.flv?expire=1773628332&sign=27ddf878c021b908d7e5bb456bbd43bf&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271865132439307585.flv?expire=1773628332&sign=27ddf878c021b908d7e5bb456bbd43bf"
+      },
+      "sd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271865132439307585_zsd5.flv?expire=1773628332&sign=892b17ff8588e72f5bb8b30409a61232"
+      },
+      "hd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271865132439307585_hd5.flv?expire=1773628332&sign=5c9875c448fe57b9c5fe320b57996d83"
       }
     }
   }
