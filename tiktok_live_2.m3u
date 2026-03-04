@@ -1,5 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pounentism.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism | Pounentism - | Ώρα έναρξης: 07:00:42 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271878706530616917_ld5.flv?expire=1773813937&sign=6d8ce099e7ca0b7b30bd67ba72ab369d
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/androniki.nikaki2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",androniki.nikaki2 | Androniki nikaki 2 - | Ώρα έναρξης: 07:13:23 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271878757532566849_ld5.flv?expire=1773813966&sign=d49246be8b9dc10208d3708c0009f88e
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271878706530616917_ld5.flv?expire=1773815442&sign=34214a1ff2e854ba0e0608bdf6a21d82
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/androniki.nikaki2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",androniki.nikaki2 | Androniki nikaki 2 - | Ώρα έναρξης: 07:13:23 | origin | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271878757532566849.flv?expire=1773815463&sign=6a769a9cd1f1f03ab1ec8f8d9935f137
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/eddies.bakery5.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eddies.bakery5 | EDDIES BAKERY - ΙΡΙΔΟΣ 6 παλιό Φάληρο | Ώρα έναρξης: 08:13:23 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271878998923937089_ld5.flv?expire=1773815563&sign=85ea668cd4adfc916cf265c481c57f11
