@@ -1,9 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΑΥΡΙΛΙΟΣ - | Ώρα έναρξης: 12:57:57 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271891741493429845.flv?expire=1774006248&sign=5ed0e5477c9b058b4d4498ae05e4aa2a
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/dimnicklive.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimnicklive | Dim&Nick Live - Top 99 | Ώρα έναρξης: 12:37:41 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271891659828233537_ld5.flv?expire=1774006323&sign=f2f25fd7f629876a162c0ae6bf86bbf0
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/panagiotis_milas.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",panagiotis_milas | Παναγιώτης Μήλας - παρεούλα | Ώρα έναρξης: 12:43:45 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271891684249044565_ld5.flv?expire=1774006380&sign=3eab05a023b5e27cc1b98deeb1c6fab3
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/kondyliascreations.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliascreations | Κονδυλία Μαρτζάκλη - | Ώρα έναρξης: 09:26:08 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271890888534787669_ld5.flv?expire=1774006408&sign=ca960e6d9a9502ada3a75c154a539e61
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΑΥΡΙΛΙΟΣ - | Ώρα έναρξης: 12:57:57 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271891741493429845_ld5.flv?expire=1774008341&sign=9fffd15ca66d0b05056263e790fadc76
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/orinimelissa.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",orinimelissa | Ορεινή Μέλισσα - Καφές | Ώρα έναρξης: 13:57:42 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271891982008714837_ld5.flv?expire=1774008349&sign=729e7159624e5d4d61579277b61f12e9
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/dimitra.teacher.lion.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion | 🦋Dimitra S🦋♌🦁 - | Ώρα έναρξης: 13:01:57 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271891757527467605.flv?expire=1774008380&sign=91b8837c6de9e86d773f33c3d8547a7f
