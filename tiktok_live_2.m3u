@@ -1,5 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 06:01:29 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271924853673297493.flv?expire=1774499436&sign=81d6238fee68aec05745f7a6004723a4
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/manoscello.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",manoscello | Manos Epitropakis - Horror Game Night! | Ώρα έναρξης: 00:56:41 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1271923626518250829_ld5.flv?expire=1774499559&sign=0efb8bb33469a9b15de3ad5e8d152986
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 06:01:29 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271924853673297493_ld5.flv?expire=1774501529&sign=3ee4cf8e94b78f1d2c982c1534015df6
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pounentism.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism | Pounentism - | Ώρα έναρξης: 07:05:23 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271925111038150229_ld5.flv?expire=1774501533&sign=f71ddcd14cf714564830162f7fbb8b2b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΑΥΡΙΛΙΟΣ - | Ώρα έναρξης: 06:36:05 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271924992988153429_ld5.flv?expire=1774501552&sign=6e741f9361e8a9ec42d1fbf7f5f8e494
