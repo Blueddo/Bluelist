@@ -1,2 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 06:01:29 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271924853673297493_ld5.flv?expire=1774519529&sign=a653386d165e5ac27041dabdaf1eec13
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/beautyandmore77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",beautyandmore77 | More and More ❤️ - Καλησπέρα παρεούλα | Ώρα έναρξης: 12:03:55 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271926313086879317_ld5.flv?expire=1774519544&sign=324fb96af459ba100d5de19647b612d7
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΑΥΡΙΛΙΟΣ - | Ώρα έναρξης: 11:15:42 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271926118943032917_ld5.flv?expire=1774519550&sign=7528f1144733388915728839fd7473b8
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/dimitra.teacher.lion.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion | 🦋Dimitra S🦋♌🦁 - | Ώρα έναρξης: 12:03:00 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271926309400086101_ld5.flv?expire=1774519596&sign=ff69fb8cd603e3bb3238fe3d874637db
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mrs_astarte.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mrs_astarte | ASTARTE - | Ώρα έναρξης: 12:05:29 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271926319399044693_ld5.flv?expire=1774519601&sign=86a9e2b3de3e2977fe419a83ea8975fe
