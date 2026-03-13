@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",michalis_evripiotis
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271932012447139137_ld.flv?expire=1774613141&sign=4e0be1dff31c227ef587e85bfbc0d7ad
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",thomastsirogiannis2025
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271932521867642177_ld.flv?expire=1774613144&sign=e8d8dfd434bdb8f668091b5e18c08c48
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",aniegk
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271932428046304853_ld.flv?expire=1774611057&sign=40fad7cf311e2420aeaae418f52fde6c
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",evasshelterkastoria
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271932106997499201_ld.flv?expire=1774611062&sign=c78b688be9656f6a7f2f430074a71cd8
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271932428046304853_ld.flv?expire=1774613147&sign=ae2cfa003887385fd8fa8a5d9141dd1a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mosxotelis_
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271932589648643669_or4.flv?expire=1774613149&sign=416d621bc20adf0d5eb52826be3ef5de
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",tzervoudakis
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271932409059738945_ld.flv?expire=1774611063&sign=e629e555cc64483c248318a6f699aade
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1271932409059738945_ld.flv?expire=1774613153&sign=3e3c8b0dbd216a4aed9798a3a6bd329f
