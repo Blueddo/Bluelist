@@ -1,5 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ioannakoulouri180.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ioannakoulouri180 | η κουζίνα της Ιωάννας - Διάφορες δουλειές | Ώρα έναρξης: 12:08:54 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271932131360638549.flv?expire=1774609531&sign=f0eaf30df2d8bff432762d9bf26d0e78
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/poparatsaklidou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",poparatsaklidou | Popi Tsaklidou - | Ώρα έναρξης: 12:51:24 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1271932302430045505_ld5.flv?expire=1774609660&sign=1c14532eec513454a6b22dc795b1a5e6
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aniegk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aniegk | Snow White - | Ώρα έναρξης: 13:22:34 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1271932428046304853_ld5.flv?expire=1774611147&sign=d23ab1576f65d300f7cde6e8351b7162
