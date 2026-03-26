@@ -1,5 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - | Ώρα έναρξης: 21:30:03 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272003969384449621.flv?expire=1775701994&sign=c38de7498b2394ee2a817be9af8448f9
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - | Ώρα έναρξης: 21:30:03 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272003969384449621_ld5.flv?expire=1775704077&sign=24c2d608c111914b761705b6a24f0670
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/super_katerina8.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",super_katerina8 | Super_Katerina 💪 - Bright gallery ✨️ | Ώρα έναρξης: 05:00:11 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272005781592213077_ld5.flv?expire=1775704092&sign=fa200a8e12f51601e701a57142bd9de4
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/irenear1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",irenear1 | 🌤🌥Irinious🌤🌥 - ΧΡΟΝΙΑ ΠΟΛΛΑ ΕΛΛΑΔΑ! | Ώρα έναρξης: 22:42:50 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272004262395905345_ld5.flv?expire=1775702020&sign=0169612fd92e87e474e6c556d38b1a67
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272004262395905345_ld5.flv?expire=1775704102&sign=351c6589f4c4c6be8a559833af2e2c69
