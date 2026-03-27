@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/androniki.nikaki2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",androniki.nikaki2 | Androniki nikaki 2 - | Ώρα έναρξης: 15:40:30 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272014158194541889_ld5.flv?expire=1775833538&sign=efdecae8676cf2c600409cccbad3ccd1
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/linamistiliadou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",linamistiliadou | L i n a M i s t i l i a d u ™️ - 🫟 | Ώρα έναρξης: 15:34:17 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272014133162411605_ld5.flv?expire=1775833559&sign=58e51c74d8365ebf7ba4630ccd4bed01
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/d0nalduck_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",d0nalduck_official | D0nalduck7🦆 - Quack ειμαι LIVE !! | Ώρα έναρξης: 16:54:00 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272014454211216717_ld5.flv?expire=1775833580&sign=b767f4f8e593486ee0022b6d59b8a49e
