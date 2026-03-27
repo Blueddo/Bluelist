@@ -1,2 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 06:44:26 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272011998961337941_ld5.flv?expire=1775813434&sign=60c1526477d5f42abb1deb18665b2f37
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/viktoria5671.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671 | ❤ Βικτώρια ❤ - | Ώρα έναρξης: 10:48:29 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272012982443312449_ld5.flv?expire=1775813437&sign=e3218f1d883a6531b79b696fd20b4e3a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/beautyandmore77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",beautyandmore77 | More and More ❤️ - Συσκευασίες♥️ | Ώρα έναρξης: 11:21:43 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272013116188919381_ld5.flv?expire=1775813448&sign=5c46b261290c8577ef89a3928b691bda
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΑΥΡΙΛΙΟΣ - | Ώρα έναρξης: 09:02:18 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272012554823009877.flv?expire=1775813452&sign=b10803a04c23c5bf0d8323af15424956
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/muglikat.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",muglikat | Katerina MK🐈‍⬛ - Καλωσορίσατε🤗￼ ￼￼ Привет 👋 | Ώρα έναρξης: 10:19:43 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272012866545518165_ld5.flv?expire=1775813500&sign=031283b3159c3ca98cbddcf80abcb171
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/asterochri.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",asterochri | Astero Chri - | Ώρα έναρξης: 11:11:26 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272013074853791041_zsd5.flv?expire=1775813524&sign=407b923aa6fb7067fd1ba49bf51835c6
