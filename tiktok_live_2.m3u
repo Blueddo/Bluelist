@@ -1,2 +1,15 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 07:15:06 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272023477662516821_ld5.flv?expire=1775988333&sign=541b8ded3f8ca0230a03fcd023ac734a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΑΥΡΙΛΙΟΣ - | Ώρα έναρξης: 09:17:46 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272023971788752469.flv?expire=1775988350&sign=0b70aae6ace3b11519e05aa05830ee33
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/elenaelen18.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elenaelen18 | ELENAelen18 - | Ώρα έναρξης: 12:07:06 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272024653746931009_ld5.flv?expire=1775988399&sign=3906859240931b32eba619cda430f36b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/muglikat.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",muglikat | Katerina MK🐈‍⬛ - Καλωσορίσατε🤗￼ ￼￼ Привет 👋 | Ώρα έναρξης: 12:54:27 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272024844475041365_ld5.flv?expire=1775988405&sign=c64104f2bc5eead63712d67462b764f2
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/sidorelasindy77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sidorelasindy77 | sidorela sindy - | Ώρα έναρξης: 12:00:02 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272024625426204245_ld5.flv?expire=1775988427&sign=d6cde9bbdac4e636ade30452733cef2b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/emmanouil_konnstantinos.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",emmanouil_konnstantinos | Konstantinosemmanouil_official - Καλώς ήλθατε στο LIVE μου | Ώρα έναρξης: 12:21:02 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272024709851776597_ld5.flv?expire=1775988462&sign=8a4832bec1115f60361fa7fa66343b50
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/magic_vesto.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",magic_vesto | Magic Vesto - ΜΑΣ ΑΝΤΕΧΕΙΣ; | Ώρα έναρξης: 12:31:30 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272024752063251777_ld5.flv?expire=1775988474&sign=66f2a34e00d7a8e231967138c8e0e5e3
