@@ -1,7 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/linamistiliadou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",linamistiliadou | L i n a M i s t i l i a d u ™️ - 🫟 | Ώρα έναρξης: 00:09:39 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272027563249894997_ld5.flv?expire=1776043874&sign=31cc8d08e706e7c7918b61a0de66c8ae
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/elizasamiou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elizasamiou | ΕL1ZA💋S. - Welcome💋 | Ώρα έναρξης: 23:27:16 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272027392593626709_ld5.flv?expire=1776043927&sign=7ef7a6e4cba6cf59bee2080bda714ed9
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - | Ώρα έναρξης: 20:02:04 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272026566288737877_ld5.flv?expire=1776043990&sign=05115aa98160ad6bb8c8f670deb56f56
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - | Ώρα έναρξης: 20:02:04 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272026566288737877.flv?expire=1776046122&sign=31aa5035240e40bcbf7c4784d249bb00
