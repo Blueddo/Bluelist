@@ -2,18 +2,27 @@
   {
     "uniqueId": "mainandros1",
     "nickname": "Menios Fourthiotis®",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5fd426896eaaaf4bda878a113f983aa3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=d3af93a0&x-expires=1775620800&x-signature=h9we%2FHPC3wS6ftgjXBzCeAHB4Fo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5fd426896eaaaf4bda878a113f983aa3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=d3af93a0&x-expires=1775620800&x-signature=h9we%2FHPC3wS6ftgjXBzCeAHB4Fo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
     "live_title": "Menios Live!",
-    "start_time": 1775448329,
-    "start_time_only_time": "07:05:29",
+    "start_time": 1775451248,
+    "start_time_only_time": "07:54:08",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
       "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272069824722241109.flv?expire=1776659436&sign=f27812fda329e60402a7e5090c779878"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272070020747757141.flv?expire=1776661531&sign=87aa9e1a7c1df565a68bb97535a472d0"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272070020747757141_zsd5.flv?expire=1776661531&sign=bd65f86663544b136a327f6907fd866f"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272070020747757141_ld5.flv?expire=1776661531&sign=1cd79eec6ed8b3666b91f75c90ef41aa"
+      },
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272070020747757141_hd5.flv?expire=1776661531&sign=ec91f2be2c238cbfb417bbbef4411189"
       },
       "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272069824722241109.flv?expire=1776659436&sign=f27812fda329e60402a7e5090c779878&only_audio=1"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272070020747757141.flv?expire=1776661531&sign=87aa9e1a7c1df565a68bb97535a472d0&only_audio=1"
       }
     }
   }
