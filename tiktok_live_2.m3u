@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 07:13:30 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272093049759467093_ld5.flv?expire=1777028735&sign=c5a536244ef2347eb266eb8389e156dc
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - ΕΛΑΤΕ ΣΤΟ ΛΑΙΒ ΜΟΥ | Ώρα έναρξης: 07:05:45 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272093018081723989_ld5.flv?expire=1777028871&sign=6e7392bfb5cb0c87e2cc7f6823f75826
