@@ -1,1 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mairi_mihoy_official
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272145190123472469_ld.flv?expire=1777781161&sign=371ff9e7f603eed351ab7301c2515c4b
