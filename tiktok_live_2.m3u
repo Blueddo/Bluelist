@@ -1,2 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 11:48:36 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272163736198055509_ld5.flv?expire=1778063440&sign=ad37344b49f99f1c476b5e952a5f85b8
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 12:49:59 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272163983423702613.flv?expire=1778063490&sign=00f48aabe21af141f2d712d5b7e03e6d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/iva_koumantaki.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",iva_koumantaki | Υβα Κουμαντάκη - | Ώρα έναρξης: 12:56:32 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272164009864332885_ld5.flv?expire=1778063507&sign=8507386b4a2ddd2efa76a32ea8a6e895
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/liakimak.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",liakimak | Λία Μακροστέργιου - | Ώρα έναρξης: 13:11:41 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272164070806259009_ld5.flv?expire=1778063528&sign=9f8c46e87121c5b8b56928f4e0a1b48d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/art_art434.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",art_art434 | 🏹✨Artemis Asteriadi ✨🏹 - 🐼Παρασκευή 😁 | Ώρα έναρξης: 13:04:48 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272164043152164437_ld5.flv?expire=1778063535&sign=cb6237e2d2bf29436acb865870764239
