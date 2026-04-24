@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 07:03:44 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272174185246361173_ld5.flv?expire=1778227540&sign=73f313bf587ee7096be5959d9099dd4c
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΤΣΙΡΗ - | Ώρα έναρξης: 11:03:30 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272175151077394005.flv?expire=1778227564&sign=6fc6503ea1abeec8d043643fb2e41725
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/kondyliascreations.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliascreations | Kondylia's creations - | Ώρα έναρξης: 09:35:21 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272174795874109013_ld5.flv?expire=1778227685&sign=57b04e432ea9dc8f4509612389e6af4d
