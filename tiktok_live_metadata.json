@@ -2,27 +2,54 @@
   {
     "uniqueId": "mainandros1",
     "nickname": "Menios Fourthiotis®",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5fd426896eaaaf4bda878a113f983aa3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=cf8251ef&x-expires=1777348800&x-signature=hwe05o5DdwaOiCHfrI4Jkehy1vE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5fd426896eaaaf4bda878a113f983aa3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1c584f82&x-expires=1777352400&x-signature=AEq0RzwuvaMncCNwiE5ks0gQzL0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
     "live_title": "Menios Live!",
-    "start_time": 1777176256,
-    "start_time_only_time": "07:04:16",
+    "start_time": 1777180378,
+    "start_time_only_time": "08:12:58",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272186060631967317_zsd5.flv?expire=1778391044&sign=d5bc28540ae54597077d4f013849f1f7"
+      },
       "ld": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272185783807903317_ld5.flv?expire=1778389536&sign=77b8c83a5489b77f33028aa782a748d5"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272186060631967317_ld5.flv?expire=1778391044&sign=d637fa8ab7654f3ae10744455d0dc775"
       },
       "hd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272185783807903317_hd5.flv?expire=1778389536&sign=1a32d64a456be191374f73fe86f3bdca"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272186060631967317_hd5.flv?expire=1778391044&sign=0913ce79cf499b47119ee1b082a78d6b"
       },
       "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272185783807903317.flv?expire=1778389536&sign=f3c839a25754d2be843358e64382f461&only_audio=1"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272186060631967317.flv?expire=1778391044&sign=826c1fd1ca505f5e793f34984dde1361&only_audio=1"
       },
       "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272185783807903317.flv?expire=1778389536&sign=f3c839a25754d2be843358e64382f461"
-      },
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272186060631967317.flv?expire=1778391044&sign=826c1fd1ca505f5e793f34984dde1361"
+      }
+    }
+  },
+  {
+    "uniqueId": "androniki.nikaki2",
+    "nickname": "Androniki nikaki 2",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/1033e74f7a28dc63c5d0c9869cfbe5d5~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1e11428b&x-expires=1777352400&x-signature=vP1S2KRvZaoIthRhv0sk8Blbfag%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "",
+    "start_time": 1777180139,
+    "start_time_only_time": "08:08:59",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
       "sd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272185783807903317_zsd5.flv?expire=1778389536&sign=a81dd70213a80a70066723a55487de35"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272186044325299521_zsd5.flv?expire=1778391072&sign=4fdbf8b9803a00b17737041e4fa2c5b0"
+      },
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272186044325299521_ld5.flv?expire=1778391072&sign=f955659026b0f87a643a52dddafb22ee"
+      },
+      "hd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272186044325299521_hd5.flv?expire=1778391072&sign=423ad97cecd4c16400cab1f2f2406602"
+      },
+      "ao": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272186044325299521.flv?expire=1778391072&sign=067b5c9c06495796077559e225897d06&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272186044325299521.flv?expire=1778391072&sign=067b5c9c06495796077559e225897d06"
       }
     }
   }
