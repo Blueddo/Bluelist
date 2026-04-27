@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 15:04:17 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272193515152213589.flv?expire=1778501176&sign=b1a9cff257f81f94529e3989d3e0b3bb
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aniegk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aniegk | Snow White - hello | Ώρα έναρξης: 13:17:30 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272193085185721941_ld5.flv?expire=1778501261&sign=b842cd143539ef9c30b9cd82c4a2311f
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/evgenis_smusenok.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",evgenis_smusenok | ΟΥΚΡΑΝΌΣ❤️🇺🇦❤️ - τσουπα τσουπα | Ώρα έναρξης: 15:02:55 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272193509717706325.flv?expire=1778501319&sign=924d88c8d473a8e630be1d0f56972c8e
