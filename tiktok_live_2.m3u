@@ -1,2 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Menios Live! | Ώρα έναρξης: 10:44:32 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272198267463009877_ld5.flv?expire=1778573177&sign=751408acdb9b9a1a2c40ed36c7f8e717
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/levonleon1996.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",levonleon1996 | levonleon - 🐼Lolaki + GTA | Ώρα έναρξης: 10:59:10 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272198326319580493_sd5.flv?expire=1778573310&sign=898a268e0bc08734615d0e50e86d39bf
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/poparatsaklidou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",poparatsaklidou | Popi Tsaklidou - | Ώρα έναρξης: 10:54:02 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272198305782433365_ld5.flv?expire=1778573326&sign=5967fe01e354714c37617174c9766f48
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/kondyliascreations.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliascreations | Kondylia's creations - | Ώρα έναρξης: 11:07:15 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272198359002646101_ld5.flv?expire=1778573337&sign=96b253b78799151fb2a0158eacfd1151
