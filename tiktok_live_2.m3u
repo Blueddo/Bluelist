@@ -1,5 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/dimnicklive.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimnicklive | Dim&Nick Live - ROAD TO A1 | Ώρα έναρξης: 03:43:06 | origin | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272202368622527821.flv?expire=1778635978&sign=d8308371dd48c33f43889abc7db438fd
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/petrakosthess.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrakosthess | PE₸ƦØ$ PE₸ƦλƙØ$ 🎙️94,5 🎧 - Petrakos 94,5 live show 🎙️ | Ώρα έναρξης: 00:08:14 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272201503654807125_ld5.flv?expire=1778636049&sign=36bb6f478f10b7f44aa6808aab742f6c
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/dimnicklive.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimnicklive | Dim&Nick Live - ROAD TO A1 | Ώρα έναρξης: 03:43:06 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272202368622527821_ld5.flv?expire=1778638046&sign=d014ab02af181bc78240421e67c74ce9
