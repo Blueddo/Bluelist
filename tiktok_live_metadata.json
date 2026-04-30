@@ -2,27 +2,18 @@
   {
     "uniqueId": "dimnicklive",
     "nickname": "Dim&Nick Live",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/e73e87803632c1d42bc2b66bc9ce5ebf~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=2782071b&x-expires=1777683600&x-signature=TZ9rc8pMgYaCPkS3w4zxzOvIlpI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=5be10d83&idc=useast8",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/e73e87803632c1d42bc2b66bc9ce5ebf~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=9f7ee31e&x-expires=1777687200&x-signature=Ra%2Bs0b9vdJZ2CogkXBFPd2Lz3cM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
     "live_title": "Road to A1.. still waiting",
     "start_time": 1777508523,
     "start_time_only_time": "03:22:03",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
-      "hd": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272208082137253197_hd5s.flv?expire=1778724439&sign=c6d84cbc4bee33df70c7caba775d4dbb"
-      },
-      "ld": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272208082137253197_ld5.flv?expire=1778724439&sign=aea91c86b69ed19ce5b40ead89ed65db"
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272208082137253197.flv?expire=1778725931&sign=70cfe858c14c467f9e870747b09789a2"
       },
       "ao": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272208082137253197.flv?expire=1778724439&sign=805cb2696209d80be853c8fb7b6bac75&only_audio=1"
-      },
-      "origin": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272208082137253197.flv?expire=1778724439&sign=805cb2696209d80be853c8fb7b6bac75"
-      },
-      "sd": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272208082137253197_sd5.flv?expire=1778724439&sign=98a86448c2bf686e22d658e8830ceca8"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272208082137253197.flv?expire=1778725931&sign=70cfe858c14c467f9e870747b09789a2&only_audio=1"
       }
     }
   }
