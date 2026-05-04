@@ -1,2 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/androniki.nikaki2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",androniki.nikaki2 | Androniki nikaki 2 - | Ώρα έναρξης: 11:05:22 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272233140586284353_ld5.flv?expire=1779105960&sign=fc7a4a847f533864d3d47e7d60528628
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 15:02:53 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272234097028367957.flv?expire=1779105985&sign=306e87ca7a3ec563c6119768080c64f8
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/art_art434.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",art_art434 | 🏹✨Artemis Asteriadi ✨🏹 - 🐼Παρασκευή 😁 | Ώρα έναρξης: 14:39:06 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272234001260611157_ld5.flv?expire=1779106016&sign=75e3142dba98869ea700ef4386096b52
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aniegk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aniegk | Snow White - Εάν πεινάς μην μπεις | Ώρα έναρξης: 13:02:41 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272233613097698901_ld5.flv?expire=1779106053&sign=1d236a0f9abb8a28d3ada7e5f4ba42d8
