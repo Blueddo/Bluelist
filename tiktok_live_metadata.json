@@ -2,27 +2,54 @@
   {
     "uniqueId": "rozasax",
     "nickname": "🪽🌹ROZA🌹🪽",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/4617c3a4e6a0399416fb733ebcbad2d3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=887b9947&x-expires=1778137200&x-signature=DRumOkUuzwGLPEB1SIRoGAyfF%2FU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/4617c3a4e6a0399416fb733ebcbad2d3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=9878a38b&x-expires=1778144400&x-signature=4kbXvsR%2FO4wR%2FAmgmA0n5aT%2BOPY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
     "live_title": "",
     "start_time": 1777967787,
     "start_time_only_time": "10:56:27",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001_ld5.flv?expire=1779183123&sign=46f81247f51a761f7d5866bfa13eb491"
+      },
       "hd": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001_hd5.flv?expire=1779181611&sign=fa7d12125d84b4390fa9d4038e1729a5"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001_hd5.flv?expire=1779183123&sign=1ade8d40e5a2fcb5a4d0895bb1a9712a"
       },
       "ao": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001.flv?expire=1779181611&sign=2c3092eec62dbf7a080e8990bcdca8e0&only_audio=1"
-      },
-      "ld": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001_ld5.flv?expire=1779181611&sign=93c0ec8000ee388d59371da8543a8e29"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001.flv?expire=1779183123&sign=80bcab2ae0abd60b4a87b4256f4848e5&only_audio=1"
       },
       "sd": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001_zsd5.flv?expire=1779181611&sign=f1028419e52718e864fc76c3f533c749"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001_zsd5.flv?expire=1779183123&sign=a8bdaace0ed8277d025cdc060d9a5a71"
       },
       "origin": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001.flv?expire=1779181611&sign=2c3092eec62dbf7a080e8990bcdca8e0"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001.flv?expire=1779183123&sign=80bcab2ae0abd60b4a87b4256f4848e5"
+      }
+    }
+  },
+  {
+    "uniqueId": "kondyliascreations",
+    "nickname": "Kondylia's creations",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/6ee03f1544f30f52c6c4b2c25e040a97~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=d52b60ea&x-expires=1778144400&x-signature=z%2B8e83YWE5VPbRu6RHYPJGncdQA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "",
+    "start_time": 1777972596,
+    "start_time_only_time": "12:16:36",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272239225689343297_hd5.flv?expire=1779183205&sign=c32881326491a6469a86208d091ddac5"
+      },
+      "ao": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272239225689343297.flv?expire=1779183205&sign=74ab32635af5b6acea6860d4612ae116&only_audio=1"
+      },
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272239225689343297_ld5.flv?expire=1779183205&sign=63ddc8e49fbe70fa817d2f439dd7d5cf"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272239225689343297.flv?expire=1779183205&sign=74ab32635af5b6acea6860d4612ae116"
+      },
+      "sd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272239225689343297_zsd5.flv?expire=1779183205&sign=672aa13c0272867c60b857a8197c0b98"
       }
     }
   }

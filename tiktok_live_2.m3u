@@ -1,3 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/rozasax.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",rozasax | 🪽🌹ROZA🌹🪽 - | Ώρα έναρξης: 10:56:27 | sd | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001_zsd5.flv?expire=1779181611&sign=f1028419e52718e864fc76c3f533c749
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/rozasax.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",rozasax | 🪽🌹ROZA🌹🪽 - | Ώρα έναρξης: 10:56:27 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272238902889416001_ld5.flv?expire=1779183123&sign=46f81247f51a761f7d5866bfa13eb491
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/kondyliascreations.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliascreations | Kondylia's creations - | Ώρα έναρξης: 12:16:36 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272239225689343297_ld5.flv?expire=1779183205&sign=63ddc8e49fbe70fa817d2f439dd7d5cf
