@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 13:27:27 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272239510897821269.flv?expire=1779186707&sign=c0f6272e7888a1e046693356d1a79720
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/dimitra.teacher.lion.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion | 🦋Dimitra S🦋♌🦁 - | Ώρα έναρξης: 13:16:41 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272239467609982549_ld5.flv?expire=1779186718&sign=28f6b38fd2e2ef8be3e7cafc22645575
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/kondyliascreations.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliascreations | Kondylia's creations - | Ώρα έναρξης: 12:16:36 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272239225689343297_ld5.flv?expire=1779186798&sign=e2d319fce6fc239babc706046a325b4c
