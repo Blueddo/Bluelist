@@ -1,2 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pasxalitsa3.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pasxalitsa3 | 🐞Πασχαλιτσα 🪼 - | Ώρα έναρξης: 15:29:05 | origin | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272251597069485377.flv?expire=1779366669&sign=d0a31dac7191da6510b3f22c7d4caf18
