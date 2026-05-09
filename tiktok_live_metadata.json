@@ -2,7 +2,7 @@
   {
     "uniqueId": "mainandros1",
     "nickname": "Menios Fourthiotis®",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5fd426896eaaaf4bda878a113f983aa3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=c456cb09&x-expires=1778472000&x-signature=wEcB9TCFfMSV0qKSa9d4Cm%2FM3tg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5fd426896eaaaf4bda878a113f983aa3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=916232a9&x-expires=1778475600&x-signature=y2BF0BM%2B%2FAjVrXkpLVqHcRgYtL8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
     "live_title": "Menios Live!",
     "start_time": 1778299607,
     "start_time_only_time": "07:06:47",
@@ -10,19 +10,46 @@
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
       "ld": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465_ld5.flv?expire=1779510639&sign=50e267ef536294f0f36118922268b474"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465_ld5.flv?expire=1779512733&sign=f61739fb4ea4393d0fa1dcf199e7fd20"
       },
       "hd": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465_hd5.flv?expire=1779510639&sign=fa91e303d04edf5ef307a01608fd88e2"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465_hd5.flv?expire=1779512733&sign=a88fe5a619523a5f136d39fb6717b755"
       },
       "ao": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465.flv?expire=1779510639&sign=10cae2578c7bc51217ec25b282274c30&only_audio=1"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465.flv?expire=1779512733&sign=6425b7d23a1507421041a832daaf8244&only_audio=1"
       },
       "sd": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465_zsd5.flv?expire=1779510639&sign=ef950c5fe5dd1fb8aa29732e504fd6f9"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465_zsd5.flv?expire=1779512733&sign=30d8e2a26c51a182a2644556746d697c"
       },
       "origin": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465.flv?expire=1779510639&sign=10cae2578c7bc51217ec25b282274c30"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272261170817926465.flv?expire=1779512733&sign=6425b7d23a1507421041a832daaf8244"
+      }
+    }
+  },
+  {
+    "uniqueId": "androniki.nikaki2",
+    "nickname": "Androniki nikaki 2",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/efbfbb0d97f550037f2278a11c904bac~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=bbb97d9b&x-expires=1778475600&x-signature=WohtocmFnMxKeN%2FuZd%2FARFuiT%2BI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "live_title": "",
+    "start_time": 1778302324,
+    "start_time_only_time": "07:52:04",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272261353017706069_ld5.flv?expire=1779512751&sign=bb230b89f1f1084f34776acc9b20e415"
+      },
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272261353017706069_hd5.flv?expire=1779512751&sign=d59d66a229ac8e951bc0298df234ebde"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272261353017706069.flv?expire=1779512751&sign=89510aec17a05aa0ba3bf614ecabb4af&only_audio=1"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272261353017706069_zsd5.flv?expire=1779512751&sign=48c4629433b2c23af53f61eda647166b"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272261353017706069.flv?expire=1779512751&sign=89510aec17a05aa0ba3bf614ecabb4af"
       }
     }
   }
