@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/viktoria5671.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671 | ❤ Βικτώρια ❤ - | Ώρα έναρξης: 13:28:36 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272285901176440129_ld5.flv?expire=1779879943&sign=5b283cbda736b770336da3284ad7258b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/moonstone.gr.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",moonstone.gr | moonstone.gr - Παραγωγή Σεμινάρια 🍋 | Ώρα έναρξης: 13:56:14 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286012376352065_ld5.flv?expire=1779880026&sign=90e9b7e4f1983705bef5ad935ebba3e1
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/super_katerina8.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",super_katerina8 | Super_Katerina 💪 - Bright gallery 🌟 🤗 | Ώρα έναρξης: 11:23:35 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272285397791802689_ld5.flv?expire=1779880098&sign=a5adee2a424852ce7d5807e103c9f0ba
