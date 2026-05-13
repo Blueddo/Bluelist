@@ -1,11 +1,15 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΤΣΙΡΗ - | Ώρα έναρξης: 14:20:13 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286109076030785_ld5.flv?expire=1779883552&sign=f136c3af1acc0e8fb07c91dfda347416
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 14:32:33 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286158737638721_ld5.flv?expire=1779883582&sign=9f97bf56e9e03048763577719592675b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΤΣΙΡΗ - | Ώρα έναρξης: 14:20:13 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286109076030785_zsd5.flv?expire=1779885074&sign=50f1445dd5d7f0bd9b926e3bceb6254b
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/_alex.lou_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",_alex.lou_ | Aleksandros - | Ώρα έναρξης: 15:23:53 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286365432415553_ld5.flv?expire=1779885152&sign=a55c6ac54ceecbc13d97d150fbddc5c0
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/moonstone.gr.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",moonstone.gr | moonstone.gr - Παραγωγή Σεμινάρια 🍋 | Ώρα έναρξης: 13:56:14 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286012376352065_ld5.flv?expire=1779883620&sign=39584d049ef7141db56ac1b73c91a734
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286012376352065_ld5.flv?expire=1779885166&sign=42b132dac7783d49ddc3f5fc68677a49
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/michalis_evripiotis.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",michalis_evripiotis | Michalis Evripiotis🏝️ - Λωλαθηκαμε 🏝️ | Ώρα έναρξης: 14:48:55 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286224641688897_ld5.flv?expire=1779883628&sign=d861b7f3a1247ffdd7008f24942de870
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286224641688897_ld5.flv?expire=1779885177&sign=fa968cdb55afc47f401ab257cb306b17
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pasxalitsa3.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pasxalitsa3 | 🐞Πασχαλιτσα 🪼 - | Ώρα έναρξης: 14:54:14 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286246050727233_ld5.flv?expire=1779883654&sign=7d9a5dea3c35ca674f48c1e5b563300f
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286246050727233_ld5.flv?expire=1779885224&sign=029e00bbfbd6739ab578c15813fc1abf
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/poparatsaklidou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",poparatsaklidou | Popi Tsaklidou - | Ώρα έναρξης: 15:14:27 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286327451682113_ld5.flv?expire=1779885264&sign=105e8cfe0d05f376d91414f32252ba68
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/petrostsernios.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrostsernios | tsernios Petros - ανακατεύουμε τα βοσκοτόπια | Ώρα έναρξης: 15:13:01 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272286321610851649_zsd5.flv?expire=1779885277&sign=af9d6c6fa7940befabe5e04da1f6287b
