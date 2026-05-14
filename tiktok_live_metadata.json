@@ -2,27 +2,27 @@
   {
     "uniqueId": "mairi_mihoy_official",
     "nickname": "Μαίρη Μίχου",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/2beab7f9e6d7a9f046539f2d883e92ff~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=bf3e8369&x-expires=1778900400&x-signature=K9gMuBLBzEE0M2imi%2B9CAfFBXzs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/2beab7f9e6d7a9f046539f2d883e92ff~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1dd466cf&x-expires=1778904000&x-signature=RGlNTV6RlcM%2Bna8IT%2Fowx0zJbk0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
     "live_title": "ΕΛΑΤΕ ΣΤΟ ΛΑΙΒ ΜΟΥ",
     "start_time": 1778694472,
     "start_time_only_time": "20:47:52",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569_ld5.flv?expire=1779941309&sign=f87a0ceb38a657862245ef34ae9b7aae"
+      },
       "hd": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569_hd5.flv?expire=1779939176&sign=ce9fd76b75666dc2c4f3919233ce6f63"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569_hd5.flv?expire=1779941309&sign=183f0071d31467a986001b90c87da492"
       },
       "ao": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569.flv?expire=1779939176&sign=95df587bec7bbe0989f9ad5502b9335e&only_audio=1"
-      },
-      "ld": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569_ld5.flv?expire=1779939176&sign=f7c5abc344f8d52a1a5264aa08296b26"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569.flv?expire=1779941309&sign=d3af729364713d281998a0e21a563565&only_audio=1"
       },
       "sd": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569_zsd5.flv?expire=1779939176&sign=0045f45746bb670e4521111b0ef09bce"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569_zsd5.flv?expire=1779941309&sign=8397bbcb9f67fe8ab702c26f3a0fe05b"
       },
       "origin": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569.flv?expire=1779939176&sign=95df587bec7bbe0989f9ad5502b9335e"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272287670028469569.flv?expire=1779941309&sign=d3af729364713d281998a0e21a563565"
       }
     }
   }
