@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 13:40:10 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272343929870091861.flv?expire=1780751144&sign=6297a5fcc85dfdb943dc64ae3ffae132
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/traveling46_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",traveling46_ | Aunt Katia - | Ώρα έναρξης: 15:28:17 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272344365205292353_ld5.flv?expire=1780751162&sign=946ec4ce1c8a30a5d8512020c0e6fe18
