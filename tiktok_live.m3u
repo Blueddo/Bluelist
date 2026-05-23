@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",viktoria5671
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272343013971199297_ld.flv?expire=1780729536&sign=f34d0fe5ed3b6418c80984350de82a13
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272342363685258561_ld.flv?expire=1780727441&sign=5d3d4ff6acf83f170c9edacd3797e12c
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272342363685258561_ld.flv?expire=1780729536&sign=3c77e37a979e82c0e2bca963cb4f9d7c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",androniki.nikaki2
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272342613932377409_ld.flv?expire=1780727444&sign=f4e55b1e97aeb427b3b919a507e3b717
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",gr.travellers
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272342903171843393_ld.flv?expire=1780727464&sign=b7f4f6b8f3061d49566f81496b190930
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272342613932377409_ld.flv?expire=1780729539&sign=07d98d66f72c8c82c19dce7cd7823632
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alexandravahtanidou
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272342989209863489_ld.flv?expire=1780729549&sign=e44583688a4f9c0d03978cd815ba7d53
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",kostaspal.82
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272342969343018305_ld.flv?expire=1780729568&sign=81b8e9a441caffddb2c0bd20dda451c1
