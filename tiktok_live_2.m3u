@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pounentism.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism | Pounentism - | Ώρα έναρξης: 07:01:00 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272365515302241601_zsd5.flv?expire=1781064324&sign=b3d6e48bd9ccc55ae0614881faf5cb0d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - ΕΛΑΤΕ ΣΤΟ ΛΑΙΒ ΜΟΥ | Ώρα έναρξης: 20:01:43 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272362860818466113_ld5.flv?expire=1781064453&sign=03939888bf0e9946bef7e79f4b4ce577
