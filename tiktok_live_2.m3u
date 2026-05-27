@@ -1,2 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - | Ώρα έναρξης: 10:00:05 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272366236391442005_ld5.flv?expire=1781083834&sign=ecec01237c029b7aedbac8bbafa40d1f
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aurhlios1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aurhlios1 | ΘΕΊΑ ΤΣΙΡΗ - | Ώρα έναρξης: 11:02:16 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272366486842770753_ld5.flv?expire=1781083847&sign=5da3a87478bac705eead4181104af67d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/alexandravahtanidou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",alexandravahtanidou | 🏴‍☠️ ѦȽⵟⵋѦƝⵠⴽѦ 🏴‍☠️ - | Ώρα έναρξης: 09:55:27 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272366217731245377_ld5.flv?expire=1781083897&sign=ebdd476e36e42b42c197d82dd6a0c690
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/petrostsernios.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrostsernios | tsernios Petros - ανακατεύουμε τα βοσκοτόπια | Ώρα έναρξης: 10:24:39 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272366335307810113_ld5.flv?expire=1781083973&sign=a0b529c4d5c11a0ef1555350f89c0256
