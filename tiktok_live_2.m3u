@@ -1,3 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - | Ώρα έναρξης: 06:35:11 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272388604040316225_ld5.flv?expire=1781415030&sign=3096c8a6d7007eb153d4377922f7f18a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - | Ώρα έναρξης: 06:35:11 | hd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272388604040316225_hd5.flv?expire=1781417122&sign=f3803483d033c6380c6092d1d01f474d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/androniki.nikaki2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",androniki.nikaki2 | Androniki nikaki 2 - | Ώρα έναρξης: 08:41:02 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272389110846719297_ld5.flv?expire=1781417138&sign=88c80faffdd4c6405428fd94b56c885a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - ΕΛΑΤΕ ΣΤΟ ΛΑΙΒ ΜΟΥ | Ώρα έναρξης: 07:38:42 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272388859790886485_ld5.flv?expire=1781417234&sign=4e0bff2c4d1a8165ac10b00edef88c57
