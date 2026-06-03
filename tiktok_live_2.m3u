@@ -1,7 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - | Ώρα έναρξης: 07:07:50 | sd | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272406130393613633_zsd5.flv?expire=1781674242&sign=50f1f8ff1addcc59f263c435e7f585b3
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pounentism.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism | Pounentism - | Ώρα έναρξης: 07:05:55 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272406122407134529_ld5.flv?expire=1781674249&sign=52f96c4ab5f334f067661374537c0c05
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/eosforos_._666.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",eosforos_._666 | 😈𝑬𝑶𝑺𝑭𝑶𝑹𝑶𝑺😈 - Off road 😈🤘 | Ώρα έναρξης: 08:22:07 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272406429296493889_ld5.flv?expire=1781674382&sign=39e28eedd45866aa8cfecfa87473f4bd
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - | Ώρα έναρξης: 07:07:50 | hd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272406130393613633_hd5.flv?expire=1781676327&sign=1b5c5f51417da9fc15a300b8294d9b1a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/pounentism.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",pounentism | Pounentism - | Ώρα έναρξης: 07:05:55 | origin | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272406122407134529.flv?expire=1781676358&sign=55e0eab8776d8ec63d3472ab24728b50
