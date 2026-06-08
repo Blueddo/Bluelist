@@ -1,17 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - | Ώρα έναρξης: 00:29:51 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272439317147158101_ld5.flv?expire=1782165931&sign=ebe3c85401a156a36d31c429671bb2e9
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ngradiogr.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ngradiogr | NGradio.gr - | Ώρα έναρξης: 23:02:36 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272438965885994305_ld5.flv?expire=1782165964&sign=04c3164a675c6724ebb5dc7e9086d547
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/xristinasidiropou2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",xristinasidiropou2 | Σκληρό Πυρηνική 👊🥰 - | Ώρα έναρξης: 23:12:20 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272439005012559445.flv?expire=1782166008&sign=aee6c6b211b407b99e57d4adb1495d83
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/_alex.lou_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",_alex.lou_ | Aleksandros - | Ώρα έναρξης: 22:04:56 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272438733691422017_ld5.flv?expire=1782166036&sign=0211e6d663bc44bb6f8955560c508a9c
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/elenibabasika.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elenibabasika | elen babasika - Φωτίζουμε γκαλερί ❤️ | Ώρα έναρξης: 01:04:25 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272439456385467713_ld5.flv?expire=1782166069&sign=08fdffe43312c0925cf19df0cd6ee9cb
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/petrakosthess.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrakosthess | PE₸ƦØ$ PE₸ƦλƙØ$ 🎙️94,5 🎧 - Petrakos 94,5 FM live show 🎙️ | Ώρα έναρξης: 00:11:18 | sd | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272439242511091009_zsd5.flv?expire=1782166115&sign=5356a39b21e0094a66d83ce02e440931
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - ΕΛΑΤΕ ΣΤΟ ΛΑΙΒ ΜΟΥ | Ώρα έναρξης: 20:00:48 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272438233799066945_ld5.flv?expire=1782166122&sign=667ba47f6cad468f782905ef6571f1a3
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ask_ioannina.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ask_ioannina | Ask Ioannina - | Ώρα έναρξης: 00:48:28 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272439392100156737_ld5.flv?expire=1782166175&sign=1753e67583b9ceca29fe540c42407e82
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272439005012559445.flv?expire=1782167506&sign=5ff5cb9fd22a6130a0876282890fb29a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/elenibabasika.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elenibabasika | elen babasika - Φωτίζουμε γκαλερί ❤️ | Ώρα έναρξης: 01:04:25 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272439456385467713_zsd5.flv?expire=1782167575&sign=28bf4b1790985af10effa57255afc6c8
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/petrakosthess.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",petrakosthess | PE₸ƦØ$ PE₸ƦλƙØ$ 🎙️94,5 🎧 - Petrakos 94,5 FM live show 🎙️ | Ώρα έναρξης: 00:11:18 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272439242511091009_ld5.flv?expire=1782167627&sign=05da2c2e887db9196145bcd407d0b39a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - ΕΛΑΤΕ ΣΤΟ ΛΑΙΒ ΜΟΥ | Ώρα έναρξης: 20:00:48 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272438233799066945_zsd5.flv?expire=1782167637&sign=71601fba84495198c8d7a01724b2b934
