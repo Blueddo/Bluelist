@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/androniki.nikaki2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",androniki.nikaki2 | Androniki nikaki 2 - | Ώρα έναρξης: 13:34:23 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272454072573625665_ld5.flv?expire=1782385546&sign=643af0f6f08b46b0a1fb69d135e0b055
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/giannelis_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannelis_ | Giannelis - Γεια | Ώρα έναρξης: 13:39:04 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272454091418633813_ld5.flv?expire=1782385658&sign=2bdc4a4bef486f8e751f8de4590410bd
