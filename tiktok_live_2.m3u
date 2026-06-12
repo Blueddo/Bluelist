@@ -1,2 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - | Ώρα έναρξης: 06:39:40 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272458200628856405_ld5.flv?expire=1782466237&sign=bf60b736521c71aff4853795d111d11e
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/androniki.nikaki2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",androniki.nikaki2 | Androniki nikaki 2 - | Ώρα έναρξης: 09:52:40 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272458977818969409_ld5.flv?expire=1782466249&sign=87a0335b937cb2d16036ceeadaaccb79
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/dimitra.teacher.lion.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",dimitra.teacher.lion | 🦋 𝒟𝒾𝓂𝒾𝓉𝓇𝒶 𝓛𝒾𝓸𝓷 ♌🦁 - | Ώρα έναρξης: 11:20:57 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272459333294884161_ld5.flv?expire=1782466276&sign=a75839158493642738c61f97e8e68fd0
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/art_art434.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",art_art434 | 🏹✨Artemis Asteriadi ✨🏹 - Καλώς ήλθατε στο LIVE μου | Ώρα έναρξης: 12:27:15 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272459600324986177_ld5.flv?expire=1782466296&sign=1a080b8f6e2334b68160748fa4f40e95
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/kondyliascreations.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kondyliascreations | Kondylia's creations - | Ώρα έναρξης: 09:35:21 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272458908092335425_zsd5.flv?expire=1782466358&sign=51d14fc5c42d29ecbab003ab2f334976
