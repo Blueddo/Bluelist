@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/viktoria5671.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",viktoria5671 | ❤ Βικτώρια ❤ - | Ώρα έναρξης: 14:17:26 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272465842252547393_ld5.flv?expire=1782559847&sign=432cad9e4211c6b1f2d75a17ae142957
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/super_katerina8.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",super_katerina8 | Super_Katerina 💪 - Bright gallery 🌟 🤗 | Ώρα έναρξης: 13:45:44 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272465714609653057_ld5.flv?expire=1782559983&sign=c8f35d1eabbeec2205b97ba49138adfb
