@@ -1,7 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Welcome | Ώρα έναρξης: 07:28:53 | origin | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272469995150116161.flv?expire=1782621036&sign=5ebe0f03a41838b68cc00cb363f2c211
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - Welcome | Ώρα έναρξης: 07:28:53 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272469995150116161_ld5.flv?expire=1782623130&sign=87d128107f81819df52a4220701f883f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mairi_mihoy_official.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mairi_mihoy_official | Μαίρη Μίχου - ΕΛΑΤΕ ΣΤΟ ΛΑΙΒ ΜΟΥ | Ώρα έναρξης: 06:57:15 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272469867911710017_ld5.flv?expire=1782621151&sign=a888436083c19ddee69f44d7c681f839
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/super_katerina8.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",super_katerina8 | Super_Katerina 💪 - Bright gallery 🌟 🤗 | Ώρα έναρξης: 04:59:16 | ld | flv
-https://pull-c5-tt04.tiktokcdn-us.com/stage/stream-1272469392779380309_ld5.flv?expire=1782621162&sign=8c3f405a9eb1c2e0e2b7d55c25982571
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272469867911710017_ld5.flv?expire=1782623267&sign=e55e5db8c56d2fef1023a0b166b1c3f6
