@@ -1,3 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/liakimak.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",liakimak | Λία Μακροστέργιου - | Ώρα έναρξης: 13:37:33 | sd | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272477278072997185_zsd5.flv?expire=1782731193&sign=f6f39ecf1a93e6d94499894184618c77
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/iva_koumantaki.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",iva_koumantaki | Υβα Κουμαντάκη - | Ώρα έναρξης: 14:13:21 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272477422219429185_ld5.flv?expire=1782732709&sign=12117c6566ad3a0830a2758cd9629c33
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/liakimak.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",liakimak | Λία Μακροστέργιου - | Ώρα έναρξης: 13:37:33 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272477278072997185_ld5.flv?expire=1782732743&sign=4fa397ef6deae6f90e8f8b5c55f5296a
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/giannelis_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",giannelis_ | Giannelis - Γεια | Ώρα έναρξης: 14:32:13 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272477498189546817_ld5.flv?expire=1782732863&sign=6758b7b7f3cb838a272cb1efb8724fa0
