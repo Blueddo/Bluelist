@@ -9,11 +9,74 @@
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
-      "origin": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825.flv?expire=1782810384&sign=23e24aaf20edc401c06faa4b75655260"
+      "hd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825_hd5.flv?expire=1782811920&sign=b658c2ec7fad51de4e6cdcea2d925e7e"
       },
       "ao": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825.flv?expire=1782810384&sign=23e24aaf20edc401c06faa4b75655260&only_audio=1"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825.flv?expire=1782811920&sign=1c27befbaa357e60817f46b9813c3c24&only_audio=1"
+      },
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825_ld5.flv?expire=1782811920&sign=79ac9166ec4e67315750ba682f0558ae"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825.flv?expire=1782811920&sign=1c27befbaa357e60817f46b9813c3c24"
+      },
+      "sd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825_zsd5.flv?expire=1782811920&sign=88773ff72885c7f155a7d18f89f0c8c9"
+      }
+    }
+  },
+  {
+    "uniqueId": "manoscello",
+    "nickname": "Manos Epitropakis",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/68152d4fe124462a424997d1dd2dfd7b~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=6505443c&x-expires=1781773200&x-signature=SvU2eNoDoXsDmSHmVrOL0qx8Aw0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "Live Cello Covers!",
+    "start_time": 1781601796,
+    "start_time_only_time": "12:23:16",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272482777102812493_hd5s.flv?expire=1782811963&sign=d4e199ba5821d51fb14d800302368ecb"
+      },
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272482777102812493_ld5.flv?expire=1782811963&sign=1128907f1673f80db970bb1da1be8181"
+      },
+      "ao": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272482777102812493.flv?expire=1782811963&sign=c6f8fe84275931246d6a632411edd424&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272482777102812493.flv?expire=1782811963&sign=c6f8fe84275931246d6a632411edd424"
+      },
+      "sd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272482777102812493_sd5.flv?expire=1782811963&sign=2fe1a3cfcbf1e842be714542ea422842"
+      }
+    }
+  },
+  {
+    "uniqueId": "aniegk",
+    "nickname": "Snow White",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/a5bbce274475e4c6a44908d3eb5e0fab~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=3e0d5f3b&x-expires=1781773200&x-signature=pM27Xttif61iqVqN257PPFMCQyo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "",
+    "start_time": 1781601353,
+    "start_time_only_time": "12:15:53",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "ao": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482747378566465.flv?expire=1782811980&sign=e4940ba79286e1f61f64929910ec7da2&only_audio=1"
+      },
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482747378566465_ld5.flv?expire=1782811980&sign=ae0ff17ffdcac031258648b953d624d8"
+      },
+      "hd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482747378566465_hd5.flv?expire=1782811980&sign=dceb9f664ec747a8789e4eba1f8879fe"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482747378566465.flv?expire=1782811980&sign=e4940ba79286e1f61f64929910ec7da2"
+      },
+      "sd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482747378566465_zsd5.flv?expire=1782811980&sign=31d2d319e3dfec51444fa7c7b754675a"
       }
     }
   }

@@ -1,3 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/alexandravahtanidou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",alexandravahtanidou | 🏴‍☠️ ѦȽⵟⵋѦƝⵠⴽѦ 🏴‍☠️ - | Ώρα έναρξης: 09:59:56 | origin | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825.flv?expire=1782810384&sign=23e24aaf20edc401c06faa4b75655260
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/alexandravahtanidou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",alexandravahtanidou | 🏴‍☠️ ѦȽⵟⵋѦƝⵠⴽѦ 🏴‍☠️ - | Ώρα έναρξης: 09:59:56 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482199973397825_ld5.flv?expire=1782811920&sign=79ac9166ec4e67315750ba682f0558ae
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/manoscello.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",manoscello | Manos Epitropakis - Live Cello Covers! | Ώρα έναρξης: 12:23:16 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272482777102812493_ld5.flv?expire=1782811963&sign=1128907f1673f80db970bb1da1be8181
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aniegk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aniegk | Snow White - | Ώρα έναρξης: 12:15:53 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272482747378566465_ld5.flv?expire=1782811980&sign=ae0ff17ffdcac031258648b953d624d8
