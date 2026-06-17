@@ -9,11 +9,20 @@
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
-      "origin": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272487284604929345.flv?expire=1782878736&sign=0d738ff4f0eeef0c195f6e53d1c6caf6"
+      "hd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272487284604929345_hd5.flv?expire=1782880246&sign=8ce82915e24d0db8efb6ace779e64472"
       },
       "ao": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272487284604929345.flv?expire=1782878736&sign=0d738ff4f0eeef0c195f6e53d1c6caf6&only_audio=1"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272487284604929345.flv?expire=1782880246&sign=282dafe1a8c7938f4eacc70541f62ec8&only_audio=1"
+      },
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272487284604929345_ld5.flv?expire=1782880246&sign=d3691afb8f274cb1580fe06762cc6c23"
+      },
+      "sd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272487284604929345_zsd5.flv?expire=1782880246&sign=d232610b1a39a5b198dc7f1b8a391034"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272487284604929345.flv?expire=1782880246&sign=282dafe1a8c7938f4eacc70541f62ec8"
       }
     }
   }
