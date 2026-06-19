@@ -2,18 +2,27 @@
   {
     "uniqueId": "eosforos_._666",
     "nickname": "😈𝑬𝑶𝑺𝑭𝑶𝑹𝑶𝑺😈",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/251cb025d515f8c9ed062cb874a454ad~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=ddeb2a07&x-expires=1782014400&x-signature=e6oHIqcDOmOJKL38VzyPpcF%2FbNk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/251cb025d515f8c9ed062cb874a454ad~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=ac6fbe22&x-expires=1782018000&x-signature=dfogK1sI9X3BQH3LDB%2FHFTOMEds%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
     "live_title": "Off road 😈🤘",
     "start_time": 1781841945,
     "start_time_only_time": "07:05:45",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
-      "origin": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272498893162284353.flv?expire=1783053155&sign=a770a49fb49f1b25745d66b40efa1266"
+      "ld": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272498893162284353_ld5.flv?expire=1783055246&sign=86fd6953594b0fe69a3f7b79bfcc81d2"
+      },
+      "hd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272498893162284353_hd5.flv?expire=1783055246&sign=517c1a53a3df25c268329838fa48c4f1"
       },
       "ao": {
-        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272498893162284353.flv?expire=1783053155&sign=a770a49fb49f1b25745d66b40efa1266&only_audio=1"
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272498893162284353.flv?expire=1783055246&sign=48ac5d9315aa5f4df525f8a81ec4453b&only_audio=1"
+      },
+      "sd": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272498893162284353_zsd5.flv?expire=1783055246&sign=b4954c9b4aa4d21bd9ac9e872ba1e4b3"
+      },
+      "origin": {
+        "flv": "https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272498893162284353.flv?expire=1783055246&sign=48ac5d9315aa5f4df525f8a81ec4453b"
       }
     }
   }
