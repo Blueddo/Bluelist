@@ -1,5 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/gianniszizzis.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",gianniszizzis | Γιαννης Ζησης - Ο Γιάννης και οι θείες 💔 | Ώρα έναρξης: 20:15:29 | ld | flv
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272513669606147393_ld5.flv?expire=1783272791&sign=6ec5a6ee0d0590de80e15c3e17fdc74c
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/sidorelasindy77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sidorelasindy77 | sidorela sindy - | Ώρα έναρξης: 20:21:43 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272513694760437333_ld5.flv?expire=1783272817&sign=08cea1d761c70bc87c706f5cd15dc120
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/gianniszizzis.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",gianniszizzis | Γιαννης Ζησης - Ο Γιάννης και οι θείες 💔 | Ώρα έναρξης: 20:15:29 | sd | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272513669606147393_zsd5.flv?expire=1783274853&sign=160e9b85155ff4cd80cab65020b05ec8
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/sidorelasindy77.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",sidorelasindy77 | sidorela sindy - | Ώρα έναρξης: 20:21:43 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272513694760437333.flv?expire=1783274872&sign=58d5e8d67de5a874cf63e9348cae1950
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aniegk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aniegk | Snow White - | Ώρα έναρξης: 21:05:57 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272513872804447553_ld5.flv?expire=1783274893&sign=f8f657ab107a5040a1156d6a4fbcdc90
