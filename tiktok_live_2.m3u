@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/karidomanna.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",karidomanna | KaridomAnna - | Ώρα έναρξης: 13:28:31 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272535223759275329_ld5.flv?expire=1783593057&sign=952e8bbd1fb2a0ffab839663e54a816d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/muglikat.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",muglikat | Katerina MK🐈‍⬛ - Καλωσορίσατε🤗￼ Привет 👋 | Ώρα έναρξης: 13:00:36 | ld | flv
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272535111353500993_ld5.flv?expire=1783593145&sign=e32b72a02ca47db1e09d88630fb901d5
