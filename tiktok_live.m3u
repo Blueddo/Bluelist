@@ -1,9 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",xristinasidiropou2
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272538831395489365_or4.flv?expire=1783647062&sign=949d8b32b60bf2b582c92393d2bd714f
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",elizasamiou
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272537783829267777_ld.flv?expire=1783645555&sign=e2a74b1340f4fb9d19cb29bcd9a97c9d
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272537783829267777_ld.flv?expire=1783647068&sign=34da8fecdef3b4596369781b0524f9bd
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",petrakosthess
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272537816788895041_or4.flv?expire=1783645564&sign=6340af04723fb33a1f4cc103044ee610
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272537816788895041_or4.flv?expire=1783647076&sign=0eff350194862ced9c05f72229ace8b8
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mairi_mihoy_official
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272536399635547457_ld.flv?expire=1783645565&sign=e9cc97b2d48bad46bf900321e79f84f0
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272536399635547457_ld.flv?expire=1783647077&sign=61b67684b8ddf63b14b26a648bf129c3
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",bar.caruffo
-https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1560768524362186821_ld.flv?expire=1783645573&sign=61143be9a8350b949a73be004545f8d9
+https://pull-flv-f77-sg01.tiktokcdn-us.com/stage/stream-1560768524362186821_ld.flv?expire=1783647083&sign=d0a2ca4811b9e43f9785444d21217610
