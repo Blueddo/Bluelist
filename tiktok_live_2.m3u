@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/gianniszizzis.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",gianniszizzis | Γιαννης Ζησης - Ο Γιάννης και οι θείες 💔 | Ώρα έναρξης: 18:48:34 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272565503420794453_ld5.flv?expire=1784045304&sign=9704191780e6f68e17430abd19f16983
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/traveling46_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",traveling46_ | Aunt Katia🦇 - Απαγορεύεται η καταγραφή | Ώρα έναρξης: 18:53:22 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272565522739758677.flv?expire=1784045329&sign=c721e4cc5a00ac104468899a35f44c25
