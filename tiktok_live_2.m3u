@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/poparatsaklidou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",poparatsaklidou | Popi Tsaklidou - | Ώρα έναρξης: 10:59:35 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272604202474407509_ld5.flv?expire=1784621289&sign=1a7b7ffd854ec86495007408567732fe
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/irenear1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",irenear1 | 🧿✨ Irinious ✨🧿 - Δεν είναι απλά live είναι παρέα! | Ώρα έναρξης: 11:02:26 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272604214016607829_ld5.flv?expire=1784621303&sign=7d3af096008d2e26f26e729199e42fef
