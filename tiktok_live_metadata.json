@@ -2,51 +2,33 @@
   {
     "uniqueId": "dimnicklive",
     "nickname": "Dim&Nick Live",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0cf101ec21cf2fd1817cb44421e77b85~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=60e121ec&x-expires=1783674000&x-signature=fKj2dlO%2FQrq0IKn3AHUDy3B%2BsFo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0cf101ec21cf2fd1817cb44421e77b85~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=60e121ec&x-expires=1783674000&x-signature=fKj2dlO%2FQrq0IKn3AHUDy3B%2BsFo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
     "live_title": "ROAD TO D5",
     "start_time": 1783501267,
     "start_time_only_time": "12:01:07",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723.flv?expire=1784712748&sign=4af5621e404e352e6f35191e87f9fb6a&only_audio=1"
+      },
       "hd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_hd5.flv?expire=1784711213&sign=895e4f675873c7168654b092b55b921e"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_hd5.flv?expire=1784712748&sign=5c88ada0d95f6e0c2b18551ee9d9e470"
       },
       "ld": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_ld5.flv?expire=1784711213&sign=4481d3c23bbb5858bd53c56217e4af40"
-      },
-      "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723.flv?expire=1784711213&sign=45aece2d462a6783a61ea083af48a0a3&only_audio=1"
-      },
-      "uhd_60": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_uhd560.flv?expire=1784711213&sign=c9156b539b42d41a97def42813812a02"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_ld5.flv?expire=1784712748&sign=cfe9c7d15c29d3a75e84687e86bb17e3"
       },
       "hd_60": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_hd560.flv?expire=1784711213&sign=acc31c79d845da74e9a064d587628bab"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_hd560.flv?expire=1784712748&sign=4123ce0b87da2471230fa0815e962446"
       },
       "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723.flv?expire=1784711213&sign=45aece2d462a6783a61ea083af48a0a3"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723.flv?expire=1784712748&sign=4af5621e404e352e6f35191e87f9fb6a"
       },
       "sd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_sd5.flv?expire=1784711213&sign=ededbd6e8d1d11d39c0dd9e75ad7eb41"
-      }
-    }
-  },
-  {
-    "uniqueId": "super_katerina8",
-    "nickname": "Super_Katerina 💪",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/221ad8d2ced754989af91e43adc4a77a~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=9f98c694&x-expires=1783670400&x-signature=HHZhW2Xa3qqKP1v0qKmK431NlqY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
-    "live_title": "Ποιός θα γίνει Φύλακας Άγγελος!!",
-    "start_time": 1783493453,
-    "start_time_only_time": "09:50:53",
-    "status": 2,
-    "status_str": "Σε εξέλιξη",
-    "stream_urls": {
-      "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609723924874837.flv?expire=1784711257&sign=42df9c2d3d28e20cdb0ef72232c22f42&only_audio=1"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_sd5.flv?expire=1784712748&sign=f6d435ab0ea962e87d81411d2c0b277f"
       },
-      "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609723924874837.flv?expire=1784711257&sign=42df9c2d3d28e20cdb0ef72232c22f42"
+      "uhd_60": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272610248447493723_uhd560.flv?expire=1784712748&sign=f23dae129411585edddf874f84a1263a"
       }
     }
   }
