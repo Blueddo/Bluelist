@@ -9,20 +9,38 @@
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893_hd5.flv?expire=1784703966&sign=072f5f65c9792a78c8e14b020ae89f00"
+      },
       "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893.flv?expire=1784701923&sign=a5a2057e5566b38f8ad7b5d7077597f9&only_audio=1"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893.flv?expire=1784703966&sign=720281f8adb7ce3c4a2c015507a3192e&only_audio=1"
       },
       "ld": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893_ld5.flv?expire=1784701923&sign=1274d2025f476f145b8c4140b8307390"
-      },
-      "hd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893_hd5.flv?expire=1784701923&sign=6f8b768a514c45f98b55381d9e70e7da"
-      },
-      "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893.flv?expire=1784701923&sign=a5a2057e5566b38f8ad7b5d7077597f9"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893_ld5.flv?expire=1784703966&sign=44714dcac252a4c307fb72673452f664"
       },
       "sd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893_zsd5.flv?expire=1784701923&sign=992dae2e5a355adebfba28bd4655cdff"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893_zsd5.flv?expire=1784703966&sign=f7e05fa7eb1bb3573b120cef7c8647d8"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609574876087893.flv?expire=1784703966&sign=720281f8adb7ce3c4a2c015507a3192e"
+      }
+    }
+  },
+  {
+    "uniqueId": "super_katerina8",
+    "nickname": "Super_Katerina 💪",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/221ad8d2ced754989af91e43adc4a77a~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=4e418d2b&x-expires=1783663200&x-signature=o%2FD7DeKWQKZ653vIYsZ%2BpEHAyPE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "Ποιός θα γίνει Φύλακας Άγγελος!!",
+    "start_time": 1783493453,
+    "start_time_only_time": "09:50:53",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609723924874837.flv?expire=1784704030&sign=501639f204fec46087f1c62af6e31270"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272609723924874837.flv?expire=1784704030&sign=501639f204fec46087f1c62af6e31270&only_audio=1"
       }
     }
   }
