@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",hiitsmilka
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272633865328919873_ld.flv?expire=1785063943&sign=557396c7f6ba1e0bc0f4cb48fbf971a0
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272633924789994817_ld.flv?expire=1785063946&sign=2af889a875277cdfb501f4a570c848d5
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",dimnicklive
-https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272633785340659021.flv?expire=1785061872&sign=b9dff32d3498ad2dc5e30acda7965697
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",athens_walks
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272633767557072193_ld.flv?expire=1785061878&sign=2361b7fdd36537ebc82e62f71cedba36
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272633785340659021_ld.flv?expire=1785063950&sign=c90d4d94ce44c152b277fbabeb0cd90d
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",chris.fintr
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272633361146316373_ld.flv?expire=1785063956&sign=20765d567f2885627596426a7986be89
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",fishingadrenalinehc
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272633594076202581_ld.flv?expire=1785061887&sign=d2a3e59e7743ff0a15bc1424041417ca
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272633594076202581_ld.flv?expire=1785063960&sign=3e3b6e516399e38349b3be56397353c7
