@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "uniqueId": "dimnicklive",
+    "nickname": "Dim&Nick Live",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0cf101ec21cf2fd1817cb44421e77b85~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=a89774b0&x-expires=1784073600&x-signature=ngvU21x6ijT6Xma7Yh6x26mz8Cc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "live_title": "το λαιβ κλεινει όταν κερδίσω!",
+    "start_time": 1783901526,
+    "start_time_only_time": "03:12:06",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272637109442709083_hd5.flv?expire=1785112394&sign=a034f783d9f8d155c842752bdcbeeed5"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272637109442709083_ld5.flv?expire=1785112394&sign=aaa6289ce831b8714ce49bb09f34b881"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272637109442709083.flv?expire=1785112394&sign=c7bdb69d36d1d2d06d86cd947d6770a3&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272637109442709083.flv?expire=1785112394&sign=c7bdb69d36d1d2d06d86cd947d6770a3"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272637109442709083_sd5.flv?expire=1785112394&sign=17fe90087d7a37a74ee16bb9d9cb63a6"
+      },
+      "uhd_60": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272637109442709083_uhd560.flv?expire=1785112394&sign=8852802e2683760139c8320184df8887"
+      },
+      "hd_60": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272637109442709083_hd560.flv?expire=1785112394&sign=d9c0be990e5bf928c6b0993a9f612c6b"
+      }
+    }
+  }
+]
