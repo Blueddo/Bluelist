@@ -2,27 +2,27 @@
   {
     "uniqueId": "afipnistis_coach",
     "nickname": "afipnistis_coach",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/06f71718d7f3b8c6c9782b1d1544214c~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=a76aa79c&x-expires=1784617200&x-signature=TJUqHj1gIL%2FMw%2BtDmfsR%2B3hAH4s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/06f71718d7f3b8c6c9782b1d1544214c~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=8de81b8c&x-expires=1784620800&x-signature=WkT%2FFnmU7ocC%2Fhvq6c2PTtLSxME%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
     "live_title": "όλα είναι υπέροχα μέσα σας",
     "start_time": 1784442849,
     "start_time_only_time": "09:34:09",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989.flv?expire=1785659588&sign=a428bb2522982a94902f3855d016544a&only_audio=1"
+      },
       "ld": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989_ld5.flv?expire=1785658108&sign=6d406b1ee9de76dadd5e19f4b876c2d1"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989_ld5.flv?expire=1785659588&sign=8dfaaf51048cb24167c2df81fddccb87"
       },
       "hd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989_hd5.flv?expire=1785658108&sign=d53dd56d9f06652ecd08e340caeff7f9"
-      },
-      "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989.flv?expire=1785658108&sign=bfbe4a6f8f58a9d4965df4b3c3ef2837&only_audio=1"
-      },
-      "sd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989_zsd5.flv?expire=1785658108&sign=7085333cd441ef35b7ad27dc9e3120e4"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989_hd5.flv?expire=1785659588&sign=ffb3bc2062710cc1218042ffde922e4a"
       },
       "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989.flv?expire=1785658108&sign=bfbe4a6f8f58a9d4965df4b3c3ef2837"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989.flv?expire=1785659588&sign=a428bb2522982a94902f3855d016544a"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272673436813755989_zsd5.flv?expire=1785659588&sign=32bb1a4bf04ef48d80c12712196ecadf"
       }
     }
   }
