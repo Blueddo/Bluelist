@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",aurora__one
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272685991878722881_hd.flv?expire=1785841537&sign=4793370d7a586afb5f0a7628feaaddaa
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",dimitra.teacher.lion
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272686115820143937_ld.flv?expire=1785841543&sign=6e46a4fd21a6cfba72eb9e640085268a
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",muglikat
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272685982751130945_ld.flv?expire=1785839465&sign=fb3db8631fb55aa75f28ce32a17fe03d
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",afipnistis_coach
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272685457213752641_ld.flv?expire=1785839474&sign=e98ac62c0d04cf1f31203df6146e65c1
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",super_katerina8
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272685433394824513_ld.flv?expire=1785839474&sign=acf91d0b7c074e34e67e48563400d6c2
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272685982751130945_ld.flv?expire=1785841547&sign=edcbda4088234f54348a7ab2c04134c5
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",dimnicklive
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272686111329355349_ld.flv?expire=1785841547&sign=3e3c9271d3fa775d10605b53646624a6
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",chris.fintr
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272685782636168513_hd.flv?expire=1785841554&sign=d5de523f5c8e8401034453a46652224b
