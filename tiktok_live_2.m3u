@@ -1,2 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/akadimia_ygeias.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",akadimia_ygeias | Γιώργος Γεωργιάδης - Ανάλυση Προσωπικότητας ΣΟΥΤΣΆΪ | Ώρα έναρξης: 16:12:36 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272692436001097301_ld5.flv?expire=1785936842&sign=d1cdf6dec987ab867717381b81626db8
