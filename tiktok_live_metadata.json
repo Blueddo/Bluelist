@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "uniqueId": "mainandros1",
+    "nickname": "Menios Fourthiotis®",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/5fd426896eaaaf4bda878a113f983aa3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=a32f02f6&x-expires=1785124800&x-signature=YkT%2FcxjyxZpaXAQGVIj2bu9%2Bfqc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "live_title": "Menios Live!",
+    "start_time": 1784952108,
+    "start_time_only_time": "07:01:48",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272707612600960597_hd5.flv?expire=1786161928&sign=c462c27dfe2c71f767cd857ed5910033"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272707612600960597.flv?expire=1786161928&sign=2a25a22294e136794ccc93d3d8c3e4df&only_audio=1"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272707612600960597_zsd5.flv?expire=1786161928&sign=0106064d0eac08324e45c9cbff145050"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272707612600960597.flv?expire=1786161928&sign=2a25a22294e136794ccc93d3d8c3e4df"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272707612600960597_ld5.flv?expire=1786161928&sign=52887acd9c8c03c3a352e36d95ec2d1b"
+      }
+    }
+  }
+]
