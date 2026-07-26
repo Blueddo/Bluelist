@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "uniqueId": "aurora__one",
+    "nickname": "aurora__one🧩🧩",
+    "avatar": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/eb3fdb2b7224d68b130acccdd25f71a8~tplv-tiktokx-cropcenter:1080:1080.webp?dr=14579&refresh_token=897144fe&x-expires=1785236400&x-signature=kDuitrj%2BA%2B8BqCR3RMPRgdgY01Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=my",
+    "live_title": "❤️",
+    "start_time": 1785065298,
+    "start_time_only_time": "14:28:18",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-f5-tt04.tiktokcdn.com/stage/stream-1272715208788018497_hd5.flv?expire=1786275067&sign=bc9afae427ed5b44973ae309111bbb84",
+        "hls": "https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1272715208788018497_hd5/index.m3u8?expire=1786275067&sign=af1241f56d9a799c27ffaf79c476483e"
+      },
+      "ao": {
+        "flv": "https://pull-f5-tt04.tiktokcdn.com/stage/stream-1272715208788018497.flv?expire=1786275067&sign=b7c5212ae2994299539cb163ee034ae0&only_audio=1"
+      },
+      "ld": {
+        "flv": "https://pull-f5-tt04.tiktokcdn.com/stage/stream-1272715208788018497_ld5.flv?expire=1786275067&sign=c7476160a54b278ae0ab831baa471625",
+        "hls": "https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1272715208788018497_ld5/index.m3u8?expire=1786275067&sign=bedb8df302cf5f4ef84588b07847006c"
+      },
+      "sd": {
+        "flv": "https://pull-f5-tt04.tiktokcdn.com/stage/stream-1272715208788018497_zsd5.flv?expire=1786275067&sign=71c48f05d2bd2eee187ed58ff9dddbd8",
+        "hls": "https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1272715208788018497_zsd5/index.m3u8?expire=1786275067&sign=9606fa91afd1bb9b6d6c311a7b243c06"
+      },
+      "origin": {
+        "flv": "https://pull-f5-tt04.tiktokcdn.com/stage/stream-1272715208788018497.flv?expire=1786275067&sign=b7c5212ae2994299539cb163ee034ae0",
+        "hls": "https://pull-hls-f16-tt04.tiktokcdn.com/stage/stream-1272715208788018497/index.m3u8?expire=1786275067&sign=d8b96199d1db5583e57f0da0d09f91b5"
+      }
+    }
+  }
+]
