@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",zumairoula
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272720737619674433_hd.flv?expire=1786363535&sign=01a3409c8eaf93eadda403563e278100
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",ermioni__
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272721106588140865_hd.flv?expire=1786363541&sign=a634b3692f3851141a0c3e289c5bbba8
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272721106588140865_hd.flv?expire=1786365051&sign=d2d687ee1d3180edf7e7776911fc44ec
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",hiitsmilka
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272721246844093761_hd.flv?expire=1786365054&sign=e0c937858d7db44f417955459ef8f38b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",dertiliskostas
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272720998336824917_hd.flv?expire=1786363544&sign=9a3adb293b68a817d2f487fdf062b89b
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272720998336824917_hd.flv?expire=1786365055&sign=e0d3117f03160c09701bfbcba47ff829
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",dimnicklive
+https://pull-f5-tt04.tiktokcdn-us.com/game/stream-1272721234962416973_hd.flv?expire=1786365062&sign=d8a9bbe15957dbe28e883ea2737f1638
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",pasxalitsa3
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272721235237143873_hd.flv?expire=1786365066&sign=eb69166949475cc995f0356fff094191
