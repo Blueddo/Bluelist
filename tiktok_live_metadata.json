@@ -2,7 +2,7 @@
   {
     "uniqueId": "ngradiogr",
     "nickname": "NGradio.gr",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/a76c84f76a1baec2f6f809cdd73a8023~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=e94c5d66&x-expires=1785438000&x-signature=kWdMrLFdKEXsj0ovztdlocRLBt0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/a76c84f76a1baec2f6f809cdd73a8023~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=e94c5d66&x-expires=1785438000&x-signature=kWdMrLFdKEXsj0ovztdlocRLBt0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
     "live_title": "",
     "start_time": 1785262052,
     "start_time_only_time": "21:07:32",
@@ -10,19 +10,46 @@
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
       "hd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_hd5.flv?expire=1786476683&sign=40eea3d18ee4e59318d73f1a00829404"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_hd5.flv?expire=1786478775&sign=394fd8643d63997e0a7ed19b8acfedba"
       },
       "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429.flv?expire=1786476683&sign=f82e82e01049434a16bf5ada69d93760&only_audio=1"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429.flv?expire=1786478775&sign=d3e403eac1106ade523c12efcb18c088&only_audio=1"
       },
       "ld": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_ld5.flv?expire=1786476683&sign=f6d3ad4b2b44bafa52d027220b98bdde"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_ld5.flv?expire=1786478775&sign=5c2dacb081b79acc6f9211b292b8dd82"
       },
       "sd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_zsd5.flv?expire=1786476683&sign=a1903fd75229681c5dda6899f7c50770"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_zsd5.flv?expire=1786478775&sign=21863648348a5ef97439a6fba65b802e"
       },
       "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429.flv?expire=1786476683&sign=f82e82e01049434a16bf5ada69d93760"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429.flv?expire=1786478775&sign=d3e403eac1106ade523c12efcb18c088"
+      }
+    }
+  },
+  {
+    "uniqueId": "afipnistis_coach",
+    "nickname": "afipnistis_coach",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/06f71718d7f3b8c6c9782b1d1544214c~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=75bf342c&x-expires=1785441600&x-signature=D6urbATADU3XgTMR9w%2BqICSx0lE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "τι είναι η αφύπνιση?",
+    "start_time": 1785269211,
+    "start_time_only_time": "23:06:51",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245_hd5.flv?expire=1786478964&sign=a1c8bb5bec51b4bf43c6a8d564c5b0d4"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245.flv?expire=1786478964&sign=25f0733adbdda7937941d84f2f894f5e&only_audio=1"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245_zsd5.flv?expire=1786478964&sign=cdfe2d6c9c7b8135cbf623da1b5b359a"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245.flv?expire=1786478964&sign=25f0733adbdda7937941d84f2f894f5e"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245_ld5.flv?expire=1786478964&sign=39f965f8a0f69e9fed279b79ded5619e"
       }
     }
   }
