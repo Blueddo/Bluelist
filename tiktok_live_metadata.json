@@ -2,7 +2,7 @@
   {
     "uniqueId": "ngradiogr",
     "nickname": "NGradio.gr",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/a76c84f76a1baec2f6f809cdd73a8023~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=e94c5d66&x-expires=1785438000&x-signature=kWdMrLFdKEXsj0ovztdlocRLBt0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/a76c84f76a1baec2f6f809cdd73a8023~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=006d3141&x-expires=1785445200&x-signature=N33Qjy2ziAp9co4Sv%2F9v7p6CB3U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
     "live_title": "",
     "start_time": 1785262052,
     "start_time_only_time": "21:07:32",
@@ -10,19 +10,46 @@
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
       "hd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_hd5.flv?expire=1786480301&sign=274fa995918957d7037d483704b56c71"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_hd5.flv?expire=1786482379&sign=0c3e4383c88a69c787b2424cfd835a97"
       },
       "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429.flv?expire=1786480301&sign=aa9c0ca811e0a0afbd4397a7fe267eb0&only_audio=1"
-      },
-      "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429.flv?expire=1786480301&sign=aa9c0ca811e0a0afbd4397a7fe267eb0"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429.flv?expire=1786482379&sign=7e174f609ca02a59f77e90b2e56ab170&only_audio=1"
       },
       "ld": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_ld5.flv?expire=1786480301&sign=ec595eb738e5b3922e65c9e67b2e992a"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_ld5.flv?expire=1786482379&sign=f3b43b4968d6907e2b07ecbb679c4153"
       },
       "sd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_zsd5.flv?expire=1786480301&sign=1b46e954b53e59fd0a01733d20962ac8"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429_zsd5.flv?expire=1786482379&sign=efce1ee9a39b55e84d9141ac5d184485"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728412804089429.flv?expire=1786482379&sign=7e174f609ca02a59f77e90b2e56ab170"
+      }
+    }
+  },
+  {
+    "uniqueId": "afipnistis_coach",
+    "nickname": "afipnistis_coach",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/06f71718d7f3b8c6c9782b1d1544214c~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=75bf342c&x-expires=1785441600&x-signature=D6urbATADU3XgTMR9w%2BqICSx0lE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "τι είναι η αφύπνιση?",
+    "start_time": 1785269211,
+    "start_time_only_time": "23:06:51",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245_hd5.flv?expire=1786482605&sign=ac8ffd2bc57490b1566c48c80b25807b"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245.flv?expire=1786482605&sign=2a1365126eac8a5d344256c28771f5aa&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245.flv?expire=1786482605&sign=2a1365126eac8a5d344256c28771f5aa"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245_ld5.flv?expire=1786482605&sign=0c402dd275311171555d6b634a55a326"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272728893239068245_zsd5.flv?expire=1786482605&sign=bcb29369e25229be43bac9461f5ffe76"
       }
     }
   }
