@@ -1,7 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",d0nalduck7
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1272732372089177421_or4.flv?expire=1786530666&sign=654491ef2e2527da069685e0f0945c79
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alexandrospetridistiktok
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272732143240611137_hd.flv?expire=1786529143&sign=71d360401b9717aefe9d4800bd89cab1
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272732143240611137_hd.flv?expire=1786530667&sign=23dea6a70427f2b1ebe443020b738d68
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",dimitra.teacher.lion
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272732336989930817_hd.flv?expire=1786530669&sign=f9575ec450a248a53bed74c590752c12
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",muglikat
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272732341079901505_hd.flv?expire=1786530672&sign=be1eefffcd588af69313f369c16ceda0
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",pasxalitsa3
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272731901247882561_hd.flv?expire=1786529155&sign=ceedc3fd6bbb877c7bcab18e824ec022
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",super_katerina8
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272732151832118593_hd.flv?expire=1786529159&sign=21c7958f1b5c4e2bffb812cf6cdf7074
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272731901247882561_hd.flv?expire=1786530675&sign=8e26c8205a6727b0f180f0eb7279af46
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",haroula_taotao
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272732364699862337_hd.flv?expire=1786530679&sign=06dd471a6b3b49afe3a30aa257c76e66
