@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "uniqueId": "dimnicklive",
+    "nickname": "Dim&Nick Live",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0cf101ec21cf2fd1817cb44421e77b85~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=a557e392&x-expires=1785574800&x-signature=WaEJ%2F5XLlN1BLH7x%2BQQXeC9xUJA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "A1?",
+    "start_time": 1785398080,
+    "start_time_only_time": "10:54:40",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272737541409736283.flv?expire=1786613540&sign=7cfdf6e3cfdf58ac7a2d781b8c7dfa65&only_audio=1"
+      },
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272737541409736283_hd5.flv?expire=1786613540&sign=b95c1190a885413bef43880c9fbf3d60"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272737541409736283_sd5.flv?expire=1786613540&sign=fc7ebfe9a4e86728df26fac6fbdaad5a"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272737541409736283_ld5.flv?expire=1786613540&sign=c2ff719d200029867537d1158beac337"
+      },
+      "uhd_60": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272737541409736283_uhd560.flv?expire=1786613540&sign=65ab46fc109469a4a63ce4f44b2cc946"
+      },
+      "hd_60": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272737541409736283_hd560.flv?expire=1786613540&sign=d324ec76642a5881ac5f968c2e473f3d"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272737541409736283.flv?expire=1786613540&sign=7cfdf6e3cfdf58ac7a2d781b8c7dfa65"
+      }
+    }
+  }
+]
