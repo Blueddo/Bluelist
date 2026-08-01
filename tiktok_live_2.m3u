@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/www.greek.gamer.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",www.greek.gamer | 🅖🅡🅔🅔🅚 🅖🅐🅜🅔🅡 TM 🍓 - | Ώρα έναρξης: 22:34:59 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272751957745075797_ld5.flv?expire=1786824350&sign=34ac8931d9fce0c6b242801b6f816493
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/art_art434.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",art_art434 | 🏹✨Artemis Asteriadi ✨🏹 - Lets Go LIVE! | Ώρα έναρξης: 22:49:00 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272752014184678997_ld5.flv?expire=1786824432&sign=5e8dc9fad9e8084efe4c3d046c5abb17
