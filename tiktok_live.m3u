@@ -1,7 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272760559078475073_hd.flv?expire=1786951848&sign=7dd8646a2b8a9c4820e3acadb05a617c
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",androniki.nikaki2
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272760286889641281_hd.flv?expire=1786950341&sign=fc0700406b43c8f4b7216204ef200bf6
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272760286889641281_hd.flv?expire=1786951851&sign=97b30728caec4d8ab2afb5c3fe6f9ac1
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alexandravahtanidou
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272760588338201921_hd.flv?expire=1786951861&sign=f2c89c1f21f70d8e5f3ca1826ac92b78
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",carmenionela861
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272760401711334721_hd.flv?expire=1786950353&sign=5073dbad7a8bf19f50913fc4408b59f2
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272760629544879425_hd.flv?expire=1786951864&sign=e03d3a5b3a018d2bddcddaad3b9400e9
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",muglikat
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272760530096096577_hd.flv?expire=1786950354&sign=73d0c82ac4d162cc431392c95c0e5c0b
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272760530096096577_hd.flv?expire=1786951864&sign=a75d87b902843ed279a93e1f041367d3
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",thomastsirogiannis1986
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272760633100076353_or4.flv?expire=1786951867&sign=f8755eb3166524a525ece08566e9b406
