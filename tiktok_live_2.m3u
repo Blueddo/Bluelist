@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/kaiti1959.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",kaiti1959 | kaitifinou 🧿 🧿🙏🇬🇷🇬🇷🙏 - | Ώρα έναρξης: 17:06:34 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272779626384983637_ld5.flv?expire=1787234830&sign=1359e9e900e68b1fc43e90602d50e8af
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/aniegk.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",aniegk | Snow White - 👋 | Ώρα έναρξης: 17:00:55 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272779603576358485.flv?expire=1787234915&sign=2add8aa7df187c230a0378c23c6bb87c
