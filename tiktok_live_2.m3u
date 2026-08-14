@@ -1,7 +1,9 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/_alex.lou_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",_alex.lou_ | Aleksandros - Lets Go LIVE!!! | Ώρα έναρξης: 20:59:56 | origin | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272826951759824475.flv?expire=1787952760&sign=b76f4c0e3894d0e30243918c874e5592
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/athens_walks.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",athens_walks | Χρήστος - Walks In Athens | Ώρα έναρξης: 23:19:55 | ld | flv
-https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272827515349763669_ld5.flv?expire=1787952821&sign=15f672370400707c36f259a502985f85
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/orinimelissa.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",orinimelissa | Ορεινή Μέλισσα - λάιβ | Ώρα έναρξης: 00:49:57 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272827877868963413_ld5.flv?expire=1787954765&sign=373f966354603c9876782648b61bd49f
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/_alex.lou_.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",_alex.lou_ | Aleksandros - Lets Go LIVE!!! | Ώρα έναρξης: 20:59:56 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/game/stream-1272826951759824475_ld5.flv?expire=1787954859&sign=a2584e17e3ebc82f8de38c05a968769e
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/r1outvofficial.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",r1outvofficial | R1ouTvOfficial - ΜΑΖΙΙΙΙ | Ώρα έναρξης: 22:54:39 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272827413667513941_ld5.flv?expire=1787954864&sign=32f2754ebccff25f7330bbb156e7dc43
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/caesar.el.tio.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",caesar.el.tio | Caesar El Tio - | Ώρα έναρξης: 23:33:54 | ld | flv
-https://pull-flv-l77-gcp01.tiktokcdn-us.com/stage/stream-4443361709312181106_ld5.flv?expire=1787952847&sign=fc0e76da465546ab10475b6f12082deb
+https://pull-flv-l77-gcp01.tiktokcdn-us.com/stage/stream-4443361709312181106_ld5.flv?expire=1787954945&sign=010040d21b1e1094990efc66fbd9abf1
