@@ -1,2 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/elizasamiou.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",elizasamiou | ΕL1ZA💋S. - | Ώρα έναρξης: 02:22:40 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272828251192165973_ld5.flv?expire=1787959952&sign=144cf40ce9448df09a5cf02b1016000f
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/caesar.el.tio.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",caesar.el.tio | Caesar El Tio - | Ώρα έναρξης: 23:33:54 | ld | flv
+https://pull-flv-l77-gcp01.tiktokcdn-us.com/stage/stream-4443361709312181106_ld5.flv?expire=1787960020&sign=6671497712ed3fadb2888e5d5243ad0f
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/bar.caruffo.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",bar.caruffo | 🪬Babsi🦇🦥🍋🌌🦬 - | Ώρα έναρξης: 02:23:59 | ld | flv
+https://pull-f5-sg01.tiktokcdn-us.com/stage/stream-1561058632651243589_ld5.flv?expire=1787960072&sign=9abd9397d9585c6671ee128ef84881c0
