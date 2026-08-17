@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uniqueId": "magic_vesto",
+    "nickname": "Magic Vesto",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7b62466e6e01c1f7f123cd6441514c85~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=66711ba8&x-expires=1787158800&x-signature=7hlVWb2jjapHCYqTOJNULH3IU%2FI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "live_title": "",
+    "start_time": 1786985702,
+    "start_time_only_time": "19:55:02",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272844084989396565.flv?expire=1788196183&sign=bc616699bd07ff56100d052d0e88233e"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272844084989396565.flv?expire=1788196183&sign=bc616699bd07ff56100d052d0e88233e&only_audio=1"
+      }
+    }
+  }
+]
