@@ -1,5 +1,13 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
-https://pull-f5-tt04.tiktokcdn.com/stage/stream-1272870076449817921_hd.flv?expire=1788599141&sign=47bb87eb65566e432a11d338806473e9
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272871200860144961_hd.flv?expire=1788600658&sign=de59c8216aacf0e84cb6fe07adee5222
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alexandrospetridistiktok
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272871024634889537_hd.flv?expire=1788600665&sign=13d6a945fb97b6652eabf58e85205d3e
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",muglikat
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272871115700569409_hd.flv?expire=1788600669&sign=bee06af4be51816078c4f408e6707df1
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",pasxalitsa3
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272871261729981761_hd.flv?expire=1788600672&sign=b769b71f2d000c9ccd0ff0832e8d1617
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",afipnistis_coach
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272871141738284629_hd.flv?expire=1788600675&sign=fe97efa0eb810976801da651d078ed97
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",ontotita4
-https://pull-flv-c11-tt04.tiktokcdn.com/stage/stream-1272871177036498517_or4.flv?expire=1788599165&sign=571fa31d3bd0a7fc90855cf7c9492623
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272871177036498517_or4.flv?expire=1788600677&sign=fb1ddba1e6df1c9b570cfc2744782588
