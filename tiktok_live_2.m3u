@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/afipnistis_coach.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",afipnistis_coach | afipnistis_coach - σεμινάριο αφύπνισης | Ώρα έναρξης: 11:54:40 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272871141738284629_ld5.flv?expire=1788599247&sign=770fb446bc61815e91dbc39e87e2cf30
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/ontotita4.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",ontotita4 | Η οντότητα - Παίζουμε ther Forest | Ώρα έναρξης: 12:03:26 | origin | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272871177036498517.flv?expire=1788599268&sign=75506c68354149a89bb319648a70895a
