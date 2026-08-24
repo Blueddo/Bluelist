@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",androniki.nikaki2
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272883103695373633_hd.flv?expire=1788777058&sign=7df1102818e4cf5cf029c651ec83773b
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alexandrospetridistiktok
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272883009810072897_hd.flv?expire=1788775555&sign=732bbaa544578fda1e00f92652a7b7b5
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",erilemonaki
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272882893845169473_hd.flv?expire=1788775563&sign=a89e06b1685f5522bb7c905f9380ec9f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272883009810072897_hd.flv?expire=1788777064&sign=75ae20ad48e12a09e721db5a9ee17a16
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",marianthi_aik
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272883030476457281_hd.flv?expire=1788777065&sign=b9483207f98d9c5b64d0fc8121ccaae6
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",ckgallery_
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272882181348001089_hd.flv?expire=1788775566&sign=02332bd526930773706857d332c215ad
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1272882181348001089_hd.flv?expire=1788777080&sign=438345a851dcf71b6baa3f0e77c3df5c
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",kostaspal82
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1272883111887373633_hd.flv?expire=1788777084&sign=542b1ffcce23c2b4b1e4161747572401
