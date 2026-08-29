@@ -1,2 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/androniki.nikaki2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",androniki.nikaki2 | Androniki nikaki 2 - | Ώρα έναρξης: 09:18:09 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272911098756204117_ld5.flv?expire=1789194667&sign=716c9c3303185bcaa58519d8f9a23831
