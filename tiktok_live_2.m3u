@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/hiitsmilka.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",hiitsmilka | milka🍫 - | Ώρα έναρξης: 14:36:51 | ld | flv
+https://pull-f5-tt04.tiktokcdn.com/stage/stream-1272970364272772417_ld5.flv?expire=1790080340&sign=dfde1476b17b0a66ac576f7c1bfe47cc
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/effimiar.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",effimiar | Effimia✨ - ΔΩΡΑ🎁 EFFI40 στη LUIGI🔥 | Ώρα έναρξης: 15:10:18 | ld | flv
+https://pull-f5-tt04.tiktokcdn.com/stage/stream-1272970499093169473_ld5.flv?expire=1790080517&sign=b068c665378b6ec493d81e35868f3faf
