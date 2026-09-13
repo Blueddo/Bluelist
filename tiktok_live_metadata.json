@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "uniqueId": "androniki.nikaki2",
+    "nickname": "Androniki nikaki 2",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0f507b84bf953e1f2457cd7aa523c5d9~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=ce67c187&x-expires=1789448400&x-signature=xxIfmzbOzXUMMagw1KRf26A1WEY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "",
+    "start_time": 1789275663,
+    "start_time_only_time": "08:01:03",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272997761532298837_hd5.flv?expire=1790485543&sign=3aa0b3344832999edaefcdfa995d7456"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272997761532298837.flv?expire=1790485543&sign=c4ce3f12a22f0b3de784c4a366b46daf&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272997761532298837.flv?expire=1790485543&sign=c4ce3f12a22f0b3de784c4a366b46daf"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272997761532298837_ld5.flv?expire=1790485543&sign=98d9517f9e901cea313eaf58be061475"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272997761532298837_zsd5.flv?expire=1790485543&sign=b0e48080c6dd47fba4c0fdfedf354779"
+      }
+    }
+  }
+]
