@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uniqueId": "ruraltecklab",
+    "nickname": "ruraltecklab",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/4d6c2bd85374a3c8a7bd98a02bfaab1a~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=ff4c4b4c&x-expires=1789455600&x-signature=%2ByuCgrjAVHlk9O9VvkbgGYk4X1Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "live_title": "Πρωινό live",
+    "start_time": 1789283249,
+    "start_time_only_time": "10:07:29",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272998270687250005.flv?expire=1790494270&sign=11802f62b859ce2e1080a6288a0535e6"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1272998270687250005.flv?expire=1790494270&sign=11802f62b859ce2e1080a6288a0535e6&only_audio=1"
+      }
+    }
+  }
+]
