@@ -1,2 +1,3 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/mainandros1.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",mainandros1 | Menios Fourthiotis® - | Ώρα έναρξης: 07:33:05 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273003446998140501_ld5.flv?expire=1790571930&sign=60bc951371be891e7c186a966a09a91f
