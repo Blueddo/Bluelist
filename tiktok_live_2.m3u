@@ -1,2 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1, Δεν βρέθηκαν live ή υπήρξε σφάλμα
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/afipnistis_coach.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",afipnistis_coach | afipnistis_coach - Σεμινάριο αφύπνισης | Ώρα έναρξης: 00:24:04 | ld | flv
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273053903670478421_ld5.flv?expire=1791331698&sign=8c797a22490cb07ef2f0fb26e6268ec4
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://raw.githubusercontent.com/Blueddo/parse_live/main/avatars/bar.caruffo.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="Tikitok live",bar.caruffo | 🪬Babsi🦇🦥🍋🦁🌌🦬 - | Ώρα έναρξης: 02:58:33 | ld | flv
+https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561284901932367915_ld5.flv?expire=1791331734&sign=6ebb0caa53c8aec7727e309913bfc0ec
