@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "uniqueId": "ngradiogr",
+    "nickname": "NGradio.gr",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/a76c84f76a1baec2f6f809cdd73a8023~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=4faef99e&x-expires=1790946000&x-signature=J28iX6to3KS6RqYPjvfIzRTY2cE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "",
+    "start_time": 1790774102,
+    "start_time_only_time": "16:15:02",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273098320143451733_hd5.flv?expire=1791984689&sign=03510024bdbb225608b0c61e775700d7"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273098320143451733.flv?expire=1791984689&sign=f6b7d3a7607f0423c9c0e110beaa88e3&only_audio=1"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273098320143451733_zsd5.flv?expire=1791984689&sign=0335129097323c4638a298fd4f88ea2e"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273098320143451733.flv?expire=1791984689&sign=f6b7d3a7607f0423c9c0e110beaa88e3"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273098320143451733_ld5.flv?expire=1791984689&sign=08100255b345a072ce00003fb6f1f113"
+      }
+    }
+  }
+]
