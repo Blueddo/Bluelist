@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
-https://pull-f5-tt04.tiktokcdn.com/stage/stream-1273160104520975681_ld5.flv?expire=1792919135&sign=22c10f0d6fd731c6436f401a3c2e5abe
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",ioanna_s2
-https://pull-flv-l77-tt04.tiktokcdn.com/stage/stream-1273161073975363157_ld5.flv?expire=1792919142&sign=da2b93a2b2fc4462a9cb9791e23e84ac
+https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273161073975363157_ld5.flv?expire=1792920650&sign=9317d34d651e522b14da9bfc988e36b0
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",xristinasidiropou2
-https://pull-f5-tt04.tiktokcdn.com/stage/stream-1273161095185171777_or4.flv?expire=1792919144&sign=ad8c80830187c7c02a0a1bdf906119f6
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1273161095185171777_ld5.flv?expire=1792920651&sign=d1cc930fdb1bf83c7e17d445983420a7
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alexandrospetridistiktok
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1273161007137293633_ld5.flv?expire=1792920652&sign=54459773281fda98dadd10fdadaf08ca
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",lenachazapi
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273160375504995649_ld5.flv?expire=1792920656&sign=ae02a4821e41dbca2f1f43ccfefbfc60
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",ckgallery_
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273160709841093953_ld5.flv?expire=1792920664&sign=d7668aef5c16b14299422406057e1c4e
