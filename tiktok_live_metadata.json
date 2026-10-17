@@ -9,20 +9,20 @@
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
-      "hd": {
-        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955_hd5.flv?expire=1793462961&sign=ca37f8a4cb8a6843753ec14b09f033ac"
-      },
       "ao": {
-        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955.flv?expire=1793462961&sign=aeef5ca23520e4bcd8a4c2310375c7a4&only_audio=1"
+        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955.flv?expire=1793464493&sign=44c5ce665607e746ce1c7ef219db24a2&only_audio=1"
       },
-      "sd": {
-        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955_sd5b.flv?expire=1793462961&sign=4b0c6266b2c87c42617b706b24098b9a"
-      },
-      "origin": {
-        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955.flv?expire=1793462961&sign=aeef5ca23520e4bcd8a4c2310375c7a4"
+      "hd": {
+        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955_hd5.flv?expire=1793464493&sign=d12b1ec26404cb065dec555583b6e701"
       },
       "ld": {
-        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955_ld5.flv?expire=1793462961&sign=2168e01aa17290c73d39794b28abe1f4"
+        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955_ld5.flv?expire=1793464493&sign=87804c0edfd0eda18a1475e9e8bb52a0"
+      },
+      "sd": {
+        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955_sd5b.flv?expire=1793464493&sign=69ed639107e07c673ea5d96d79942c0d"
+      },
+      "origin": {
+        "flv": "https://pull-q5-sg01.tiktokcdn-us.com/stage/stream-1561427782086950955.flv?expire=1793464493&sign=44c5ce665607e746ce1c7ef219db24a2"
       }
     }
   }
