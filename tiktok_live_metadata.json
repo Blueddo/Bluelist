@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "uniqueId": "mairi_mihoy_official",
+    "nickname": "Μαίρη Μίχου",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/43aff76e8cf55b59cd4728d05a694414~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=4689a727&x-expires=1792688400&x-signature=F5rH1JPm0Xw48g%2Fup9yuDGBt%2F7U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "live_title": "",
+    "start_time": 1792516533,
+    "start_time_only_time": "20:15:33",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273215252837697109_hd5.flv?expire=1793727294&sign=f1fa58adbf8835ec086de63e6971cefb"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273215252837697109.flv?expire=1793727294&sign=9ead5cf8957e053fd68faa32b1695a72&only_audio=1"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273215252837697109_ld5.flv?expire=1793727294&sign=6fb7f9e3f1521968be789576d05ad9b5"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273215252837697109_zsd5.flv?expire=1793727294&sign=0d9cb796589b1ec0b4f7e33552a4b5be"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273215252837697109.flv?expire=1793727294&sign=9ead5cf8957e053fd68faa32b1695a72"
+      }
+    }
+  }
+]
