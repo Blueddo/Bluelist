@@ -2,18 +2,27 @@
   {
     "uniqueId": "mairi_mihoy_official",
     "nickname": "Μαίρη Μίχου",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/43aff76e8cf55b59cd4728d05a694414~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=2d07b0c0&x-expires=1792778400&x-signature=M4s4x7q0NeVmyx07EWQgtz5JVGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/43aff76e8cf55b59cd4728d05a694414~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1d08b51b&x-expires=1792782000&x-signature=ikw0i%2B1ZihpAzZDO%2F%2Bu4%2BTkZqZI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
     "live_title": "",
     "start_time": 1792603818,
     "start_time_only_time": "20:30:18",
     "status": 2,
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
-      "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821.flv?expire=1793819549&sign=b290efc178f584eceb11d0b7ed4b9761&only_audio=1"
-      },
       "hd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_hd.flv?expire=1793819549&sign=07841896b6207d765ad98db2d4ae7a6d"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_hd5.flv?expire=1793820929&sign=f1c34eb14589ded1038d073b5c81521b"
+      },
+      "ao": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821.flv?expire=1793820929&sign=e7a1e5530fa3370d2528ae1e23e28c02&only_audio=1"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_ld5.flv?expire=1793820929&sign=ecb42525e03403199c98799c43a4577b"
+      },
+      "sd": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_zsd5.flv?expire=1793820929&sign=ca21314ab1a5607343e265420919bf38"
+      },
+      "origin": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821.flv?expire=1793820929&sign=e7a1e5530fa3370d2528ae1e23e28c02"
       }
     }
   }
