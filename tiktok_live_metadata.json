@@ -2,7 +2,7 @@
   {
     "uniqueId": "mairi_mihoy_official",
     "nickname": "Μαίρη Μίχου",
-    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/43aff76e8cf55b59cd4728d05a694414~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=70380150&x-expires=1792796400&x-signature=j03kiF67vXZ%2FyN%2FdZ%2BawGrLuf8w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/43aff76e8cf55b59cd4728d05a694414~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=dada3ac5&x-expires=1792800000&x-signature=Oibrd7XjdL0maxLClxzu4kWBacw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
     "live_title": "",
     "start_time": 1792603818,
     "start_time_only_time": "20:30:18",
@@ -10,19 +10,46 @@
     "status_str": "Σε εξέλιξη",
     "stream_urls": {
       "hd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_hd5.flv?expire=1793835342&sign=e4bfdbd21fd537ec16c2cb83a34c7525"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_hd5.flv?expire=1793837401&sign=e165c142b3f4e1fcf18a320e130c4202"
       },
       "ao": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821.flv?expire=1793835342&sign=37db909275f910d892fb720391b34abd&only_audio=1"
-      },
-      "ld": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_ld5.flv?expire=1793835342&sign=15b8c70667976ee29ca653697ad4bc19"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821.flv?expire=1793837401&sign=8a8a3702031b613d6b71aa8dff3b7267&only_audio=1"
       },
       "sd": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_zsd5.flv?expire=1793835342&sign=6340017657dbb6caaa8b45afecb718bf"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_zsd5.flv?expire=1793837401&sign=4268e4f984770b4a62aa2374e1219dbf"
       },
       "origin": {
-        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821.flv?expire=1793835342&sign=37db909275f910d892fb720391b34abd"
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821.flv?expire=1793837401&sign=8a8a3702031b613d6b71aa8dff3b7267"
+      },
+      "ld": {
+        "flv": "https://pull-flv-l77-tt04.tiktokcdn-us.com/stage/stream-1273221110379316821_ld5.flv?expire=1793837401&sign=3d6a17601a8ac15f71220a866316a487"
+      }
+    }
+  },
+  {
+    "uniqueId": "bar.caruffo",
+    "nickname": "🪬Babsi🦇🦥🍋🦁🌌🦬",
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/6b69e0757bd49c4db264c451dedafa76~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=28005d80&x-expires=1792796400&x-signature=jaubSCgtj1ey9PRrqWVMBp2kXOQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+    "live_title": "Lets Go LIVE!",
+    "start_time": 1792625829,
+    "start_time_only_time": "02:37:09",
+    "status": 2,
+    "status_str": "Σε εξέλιξη",
+    "stream_urls": {
+      "hd": {
+        "flv": "https://pull-w5-sg01.tiktokcdn-us.com/game/stream-1561452963725574236_hd5s.flv?expire=1793837467&sign=198e4817b6ebea3654f761218f18356f"
+      },
+      "ao": {
+        "flv": "https://pull-w5-sg01.tiktokcdn-us.com/game/stream-1561452963725574236.flv?expire=1793837467&sign=4d95df832dfda8bf33bbeec78bdc0480&only_audio=1"
+      },
+      "origin": {
+        "flv": "https://pull-w5-sg01.tiktokcdn-us.com/game/stream-1561452963725574236.flv?expire=1793837467&sign=4d95df832dfda8bf33bbeec78bdc0480"
+      },
+      "sd": {
+        "flv": "https://pull-w5-sg01.tiktokcdn-us.com/game/stream-1561452963725574236_sd5.flv?expire=1793837467&sign=c02d323a2c0dc48b3022d7cb349b2045"
+      },
+      "ld": {
+        "flv": "https://pull-w5-sg01.tiktokcdn-us.com/game/stream-1561452963725574236_ld5.flv?expire=1793837467&sign=1cfebdada4f039612e9ba3485e85e66d"
       }
     }
   }
