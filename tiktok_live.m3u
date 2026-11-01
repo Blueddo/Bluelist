@@ -1,5 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mairi_mihoy_official
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273282086758778177_ld5.flv?expire=1794722776&sign=86e088ee60a59e35312a9916891a76d1
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",afipnistis_coach
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273280573727573313_ld5.flv?expire=1794720681&sign=cfc3eb4e3cc47e0c1c3dac9dff6d51c7
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273280573727573313_ld5.flv?expire=1794722778&sign=479d45db68f410b8fb772f02475d9fa6
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",fishingadrenalinehc
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1273281795236300097_ld5.flv?expire=1794720685&sign=0ceee716c353f7101791c8ccf52b822f
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1273281795236300097_ld5.flv?expire=1794722782&sign=b6852d9fa78cfe38fd8bddcb490cfdb2
