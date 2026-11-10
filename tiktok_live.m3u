@@ -1,7 +1,11 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",maria_tsilfidou
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273335221140063553_ld5.flv?expire=1795514740&sign=92e0f44b964143d49ef72884f883b651
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",beautyandmore77
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273334819023226177_ld5.flv?expire=1795512661&sign=7b5b4adc2ea4fa5122d17a6c47c0c0ef
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273334819023226177_ld5.flv?expire=1795514741&sign=32e5a9d29c3ee9da785e1483abd9c2ca
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",www.greek.gamer
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1273335183156970817_or4.flv?expire=1795514742&sign=45db8b109645413a155c62e4508a71fb
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",alexandravahtanidou
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273334901234206017_ld5.flv?expire=1795512675&sign=385dfdc7a88a41c54307d20912c83728
-#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",kondyliascreations
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273334684471002433_ld5.flv?expire=1795512691&sign=0747bd0b51ab0d604d1186145b7ac275
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273334901234206017_ld5.flv?expire=1795514751&sign=37005ddf68e6e364c698372396e30a33
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",thomastsirogiannis1986
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273335253019133249_ld5.flv?expire=1795514755&sign=7a0e0ca718e936889885bcc68844e1ee
