@@ -1,5 +1,7 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",mainandros1
-https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1273403500921881921_ld5.flv?expire=1796542249&sign=f16c181e38ad6d01a21de70811c54bac
+https://pull-f5-tt04.tiktokcdn-us.com/stage/stream-1273403500921881921_ld5.flv?expire=1796544350&sign=9a552f3fb687cd2a7198bf56977188ee
 #EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",antonistriantafillidis
-https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273404125036414273_ld5.flv?expire=1796542258&sign=49cc4f26a1367cd9aa25d818d7021100
+https://pull-flv-f77-tt04.tiktokcdn-us.com/stage/stream-1273404125036414273_ld5.flv?expire=1796544356&sign=407830a28053c4075824756eef916995
+#EXTINF:-1 group-title="TikTok Live" tvg-logo="https://www.tiktok.com/favicon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="TikTok live",pantelis_kaf
+https://pull-flv-f77-tt04.tiktokcdn-us.com/game/stream-1273404330185327949_ld5.flv?expire=1796544359&sign=31e364edf385387b56c4b5203c0f5684
